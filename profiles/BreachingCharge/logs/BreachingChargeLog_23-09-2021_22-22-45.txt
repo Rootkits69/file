@@ -1,0 +1,4 @@
+[23/09/2021-23:53:52]	[PLACED]	[23/09/2021-23:53:52]	A charge has been placed!	 | HDSN_BreachingChargeHeavy, Position: <12245.042969, 22.792234, 14267.685547>, Target: Fence_Gate_Metal | Player: ItsToXiiiic [76561198138907923]
+[24/09/2021-00:01:02]	[ARMED]		[24/09/2021-00:01:02]	A charge has been armed!	 | HDSN_BreachingChargeHeavy, Position: <12246.773438, 23.365395, 14267.648438>, Target: Fence_Gate_Metal | Player: ItsToXiiiic [76561198138907923]
+[24/09/2021-00:06:02]	[EXPLODED]	[24/09/2021-00:06:02]	A charge has exploded!		 | HDSN_BreachingChargeHeavy, Position: <12246.773438, 23.365395, 14267.648438>, Target: Fence_Gate_Metal, Damage done: 2 | Player: ItsToXiiiic [76561198138907923]
+[24/09/2021-00:06:02]	[DESTROYED]	[24/09/2021-00:06:02]	A target was destroyed!	 | HDSN_BreachingChargeHeavy, Position: <12246.773438, 23.365395, 14267.648438>, Target: Fence_Gate_Metal | Player: ItsToXiiiic [76561198138907923]

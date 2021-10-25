@@ -1,0 +1,8 @@
+[19/10/2021-09:36:08]	[PLACED]	[19/10/2021-09:36:08]	A charge has been placed!	 | HDSN_BreachingCharge, Position: <8419.986328, 121.290459, 12895.276367>, Target: Fence_Gate | Player: Amemiya [76561198319052264]
+[19/10/2021-09:36:13]	[ARMED]		[19/10/2021-09:36:13]	A charge has been armed!	 | HDSN_BreachingCharge, Position: <8421.576172, 121.473206, 12894.164063>, Target: Fence_Gate | Player: Amemiya [76561198319052264]
+[19/10/2021-09:46:13]	[EXPLODED]	[19/10/2021-09:46:13]	A charge has exploded!		 | HDSN_BreachingCharge, Position: <8421.576172, 121.473206, 12894.164063>, Target: Fence_Gate, Damage done: 1 | Player: Amemiya [76561198319052264]
+[19/10/2021-09:46:13]	[DESTROYED]	[19/10/2021-09:46:13]	A target was destroyed!	 | HDSN_BreachingCharge, Position: <8421.576172, 121.473206, 12894.164063>, Target: Fence_Gate | Player: Amemiya [76561198319052264]
+[19/10/2021-09:47:47]	[PLACED]	[19/10/2021-09:47:47]	A charge has been placed!	 | HDSN_BreachingChargeHeavy, Position: <8422.560547, 123.887688, 12889.282227>, Target: Fence_Gate | Player: Amemiya [76561198319052264]
+[19/10/2021-09:47:54]	[ARMED]		[19/10/2021-09:47:54]	A charge has been armed!	 | HDSN_BreachingChargeHeavy, Position: <8423.392578, 124.862869, 12889.146484>, Target: Fence_Gate | Player: Amemiya [76561198319052264]
+[19/10/2021-09:52:54]	[EXPLODED]	[19/10/2021-09:52:54]	A charge has exploded!		 | HDSN_BreachingChargeHeavy, Position: <8423.392578, 124.862869, 12889.146484>, Target: Fence_Gate, Damage done: 2 | Player: Amemiya [76561198319052264]
+[19/10/2021-09:52:54]	[DESTROYED]	[19/10/2021-09:52:54]	A target was destroyed!	 | HDSN_BreachingChargeHeavy, Position: <8423.392578, 124.862869, 12889.146484>, Target: Fence_Gate | Player: Amemiya [76561198319052264]

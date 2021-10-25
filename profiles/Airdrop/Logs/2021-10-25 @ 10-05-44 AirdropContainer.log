@@ -1,0 +1,26 @@
+2021-10-25 @ 10-05-44:  [InitializeContainer] Winds: Vector <-2.786003, 0.000000, -0.953475>, Speed 2.94464mps, Strength 0.1
+2021-10-25 @ 10-05-44:  [InitializeContainer] Parachute created on @ <13379.683594, 153.426102, 3099.990479>
+2021-10-25 @ 10-07-30:  [AirdropContainerFall] Airdrop Container Touchdown @ <13379.457031, 47.777412, 3100.232666>
+2021-10-25 @ 10-07-30:  [ADU_RemoveParachute] Parachute removed.
+2021-10-25 @ 10-07-30:  [ADU_RepositionContainer] Container repositioned.
+2021-10-25 @ 10-07-30:  [ADU_SpawnItems] Drop Type 'Building Supplies', Container: 'AirdropContainer', Mode/Quantity/Iems: Random/15/203, Flare:  10%
+2021-10-25 @ 10-07-30:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-10-25 @ 10-07-30:  [ADU_SpawnItems] Loot Spawned [1] Msp_StorageBox_Kit @ <13380.467773, 22.553165, 3102.455566> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 10-07-30:  [ADU_SpawnItems] Loot Spawned [2] Pickaxe @ <13376.899414, 22.576416, 3100.912598> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 10-07-30:  [ADU_SpawnItems] Loot Spawned [3] LeatherSewingKit @ <13381.117188, 22.311441, 3102.057617> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 10-07-30:  [ADU_SpawnItems] Loot Spawned [4] LargeTent @ <13376.669922, 22.105520, 3099.392334> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 10-07-30:  [ADU_SpawnItems] Loot Spawned [5] Msp_GunRack_Kit @ <13380.736328, 21.578993, 3099.668213> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 10-07-30:  [ADU_SpawnItems] Loot Spawned [6] MediumTent_Green @ <13377.802734, 22.244238, 3100.317383> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 10-07-30:  [ADU_SpawnItems] Loot Spawned [7] SewingKit @ <13380.394531, 22.396633, 3101.948975> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 10-07-30:  [ADU_SpawnItems] Loot Spawned [8] Shovel @ <13378.468750, 22.365381, 3100.976318> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 10-07-30:  [ADU_SpawnItems] Loot Spawned [9] LargeTent @ <13379.520508, 22.341225, 3101.370850> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 10-07-30:  [ADU_SpawnItems] Loot Spawned [10] Shovel @ <13377.928711, 21.742455, 3098.864990> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 10-07-30:  [ADU_SpawnItems] Loot Spawned [11] WoodenLog @ <13380.505859, 22.243210, 3101.544678> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 10-07-30:  [ADU_SpawnItems] Loot Spawned [12] SewingKit @ <13378.205078, 21.887283, 3099.425049> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 10-07-30:  [ADU_SpawnItems] Loot Spawned [13] Msp_GunRack_Kit @ <13378.931641, 21.745138, 3099.321289> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 10-07-30:  [ADU_SpawnItems] Loot Spawned [14] Msp_GunRack_Kit @ <13378.659180, 22.361689, 3101.049805> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 10-07-30:  [ADU_SpawnItems] Loot Spawned [15] MetalWire @ <13377.236328, 22.045740, 3099.467041> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 10-07-30:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-10-25 @ 10-07-30:  [EOnSimulate] Airdrop Container deactivated.
+2021-10-25 @ 10-45-44:  [~AirdropContainerBase] Log file closed.
+2021-10-25 @ 10-45-44:  [~AirdropContainerBase] Container Destroyed.

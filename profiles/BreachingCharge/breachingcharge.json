@@ -1,0 +1,182 @@
+{
+    "CreateLogs": 1,
+    "Charges": [
+        {
+            "Classname": "HDSN_BreachingCharge",
+            "DamageToObjects": 1,
+            "DamageToDestroyableObjectsRadius": 0.0,
+            "MaxDamageToPlayers": 100.0,
+            "MinDamageToPlayers": 50.0,
+            "DamageToPlayersRadius": 0.0,
+            "MaxDamageToPlayersRadius": 0.0,
+            "OnlyDestroyLocks": 0,
+            "DeleteObjectsDirectly": 0,
+            "DestroyLocksFirst": 0,
+            "PlacementDistance": 2.0,
+            "ToolDamageOnDefuse": 10.0,
+            "TimeToPlant": 30.0,
+            "TimeToExplode": 600.0,
+            "TimeToDefuse": 20.0,
+            "LightBrightness": 0.5,
+            "LightRadius": 10.0,
+            "LightColorStart": [
+                0.0,
+                1.0,
+                0.0
+            ],
+            "LightColorHalfway": [
+                1.0,
+                1.0,
+                0.0
+            ],
+            "LightColorEnd": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "BeepingSoundSet": "HDSN_SoundSet_Beeping",
+            "BeepingSoundEndTime": 2.0,
+            "SwitchInterval": 2.0,
+            "ExplosionSoundSet": "Landmine_Explosion_SoundSet",
+            "DefuseTools": [
+                "Unarmed"
+            ]
+        },
+        {
+            "Classname": "HDSN_BreachingChargeHeavy",
+            "DamageToObjects": 2,
+            "DamageToDestroyableObjectsRadius": 0.0,
+            "MaxDamageToPlayers": 100.0,
+            "MinDamageToPlayers": 50.0,
+            "DamageToPlayersRadius": 0.0,
+            "MaxDamageToPlayersRadius": 0.0,
+            "OnlyDestroyLocks": 0,
+            "DeleteObjectsDirectly": 0,
+            "DestroyLocksFirst": 0,
+            "PlacementDistance": 2.0,
+            "ToolDamageOnDefuse": 10.0,
+            "TimeToPlant": 15.0,
+            "TimeToExplode": 300.0,
+            "TimeToDefuse": 20.0,
+            "LightBrightness": 0.5,
+            "LightRadius": 10.0,
+            "LightColorStart": [
+                0.0,
+                1.0,
+                0.0
+            ],
+            "LightColorHalfway": [
+                1.0,
+                1.0,
+                0.0
+            ],
+            "LightColorEnd": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "BeepingSoundSet": "HDSN_SoundSet_Beeping",
+            "BeepingSoundEndTime": 2.0,
+            "SwitchInterval": 2.0,
+            "ExplosionSoundSet": "Landmine_Explosion_SoundSet",
+            "DefuseTools": [
+                "Unarmed"
+            ]
+        }
+    ],
+    "Tiers": [
+        {
+            "Name": "Tier1",
+            "Health": 1,
+            "AcceptedChargeTypes": [
+                "HDSN_BreachingCharge",
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "Name": "Tier2",
+            "Health": 2,
+            "AcceptedChargeTypes": [
+                "HDSN_BreachingCharge",
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "Name": "Tier2",
+            "Health": 4,
+            "AcceptedChargeTypes": [
+                "HDSN_BreachingCharge",
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "Name": "Tier4",
+            "Health": 6,
+            "AcceptedChargeTypes": [
+                "HDSN_BreachingChargeHeavy",
+				"HDSN_BreachingCharge"
+            ]
+        },
+        {
+            "Name": "Tier5",
+            "Health": 8,
+            "AcceptedChargeTypes": [
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "Name": "Tier6",
+            "Health": 10,
+            "AcceptedChargeTypes": [
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "Name": "Tier7",
+            "Health": 12,
+            "AcceptedChargeTypes": [
+                "HDSN_BreachingChargeHeavy"
+            ]
+        }
+    ],
+    "DestroyableObjects": {
+        "Fence_Gate": "Tier1",
+        "Fence_Gate_HalfMetal": "Tier1",
+        "Fence_Gate_Metal": "Tier2",
+        "MoreDoorSmall": "Tier1",
+        "MoreDoorSmallShanty": "Tier1",
+        "MoreDoorSmallMetal": "Tier2",
+        "MoreDoorMetalBarricade": "Tier2",
+        "MoreDoorBarricade": "Tier1",
+		"MoreDoorVault": "Tier4",
+
+        "SimpleBaseDoor_Hologram": "Tier1",
+        "SimpleBaseDoor_Frame": "Tier1",
+        "SimpleBaseDoor_Frame_LogsFrame": "Tier1",
+        "SimpleBaseDoor_Frame_MetalFrame": "Tier2",
+        "SimpleBaseDoor_Frame_LogsFrame_MetalFrame": "Tier2",
+        "SimpleBaseDoor": "Tier1",
+        "SimpleBaseDoor_Logs": "Tier1",
+        "SimpleBaseDoor_Metal": "Tier2",
+        "SimpleBaseDoor_Logs_Metal": "Tier2",
+        "SimpleBaseDoor_LogsFrame": "Tier2",
+        "SimpleBaseDoor_Logs_LogsFrame": "Tier2",
+        "SimpleBaseDoor_Metal_LogsFrame": "Tier2",
+        "SimpleBaseDoor_Logs_Metal_LogsFrame": "Tier2",
+        "SimpleBaseDoor_MetalFrame": "Tier2",
+        "SimpleBaseDoor_Logs_MetalFrame": "Tier2",
+        "SimpleBaseDoor_Metal_MetalFrame": "Tier2",
+        "SimpleBaseDoor_Logs_Metal_MetalFrame": "Tier2",
+        "SimpleBaseDoor_LogsFrame_MetalFrame": "Tier2",
+        "SimpleBaseDoor_Logs_LogsFrame_MetalFrame": "Tier2",
+        "SimpleBaseDoor_Metal_LogsFrame_MetalFrame": "Tier2",
+        "SimpleBaseDoor_Logs_Metal_LogsFrame_MetalFrame": "Tier2",
+
+        "SimpleBaseGate_Hologram": "Tier1",
+        "SimpleBaseGate_Frame": "Tier1",
+        "SimpleBaseGate": "Tier1",
+        "SimpleBaseGate_Logs": "Tier1",
+        "SimpleBaseGate_Metal": "Tier2",
+        "SimpleBaseGate_Logs_Metal": "Tier2"
+    }
+}

@@ -1,0 +1,4 @@
+[05/10/2021-17:49:56]	[PLACED]	[05/10/2021-17:49:56]	A charge has been placed!	 | HDSN_BreachingChargeHeavy, Position: <14280.492188, 4.071860, 13284.518555>, Target: Fence_Gate | Player: Tiny [76561198088740296]
+[05/10/2021-17:50:04]	[ARMED]		[05/10/2021-17:50:04]	A charge has been armed!	 | HDSN_BreachingChargeHeavy, Position: <14281.601563, 4.869032, 13284.973633>, Target: Fence_Gate | Player: Tiny [76561198088740296]
+[05/10/2021-18:00:04]	[EXPLODED]	[05/10/2021-18:00:04]	A charge has exploded!		 | HDSN_BreachingChargeHeavy, Position: <14281.601563, 4.869032, 13284.973633>, Target: Fence_Gate, Damage done: 2 | Player: Tiny [76561198088740296]
+[05/10/2021-18:00:04]	[DESTROYED]	[05/10/2021-18:00:04]	A target was destroyed!	 | HDSN_BreachingChargeHeavy, Position: <14281.601563, 4.869032, 13284.973633>, Target: Fence_Gate | Player: Tiny [76561198088740296]

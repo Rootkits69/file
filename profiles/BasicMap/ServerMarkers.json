@@ -1,0 +1,26 @@
+[
+    {
+     
+        ],
+        "Icon": "BasicMap\\gui\\images\\marker.paa",
+        "Is3DMarker": 0,
+        "Colour": [
+            212,
+            138,
+            251
+        ],
+        
+    },
+    {
+        
+        ],
+        "Icon": "BasicMap\\gui\\images\\marker.paa",
+        "Is3DMarker": 0,
+        "Colour": [
+            212,
+            138,
+            251
+        ],
+        
+    }
+]

@@ -1,0 +1,32 @@
+2021-10-25 @ 05-04-14:  [InitializeContainer] Winds: Vector <7.399922, 0.000000, 17.906477>, Speed 19.3753mps, Strength 0.1
+2021-10-25 @ 05-04-14:  [InitializeContainer] Parachute created on @ <13379.437500, 177.435349, 3137.078125>
+2021-10-25 @ 05-06-35:  [AirdropContainerFall] Airdrop Container Touchdown @ <13379.196289, 36.666840, 3137.146240>
+2021-10-25 @ 05-06-35:  [ADU_RemoveParachute] Parachute removed.
+2021-10-25 @ 05-06-35:  [ADU_RepositionContainer] Container repositioned.
+2021-10-25 @ 05-06-35:  [ADU_SpawnItems] Drop Type 'Food/Medical', Container: 'AirdropContainer_Medical', Mode/Quantity/Iems: Random/20/55, Flare:  10%
+2021-10-25 @ 05-06-35:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-10-25 @ 05-06-35:  [ADU_SpawnItems] Loot Spawned [1] PeachesCan @ <13380.086914, 33.366482, 3136.252930> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 05-06-35:  [ADU_SpawnItems] Loot Spawned [2] PeachesCan @ <13380.463867, 32.884422, 3134.810303> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 05-06-35:  [ADU_SpawnItems] Loot Spawned [3] PeachesCan @ <13378.898438, 34.101547, 3138.206299> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 05-06-35:  [ADU_SpawnItems] Loot Spawned [4] Canteen @ <13380.061523, 33.116280, 3135.391113> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 05-06-35:  [ADU_SpawnItems] Loot Spawned [5] PeachesCan @ <13380.710938, 34.017818, 3138.770996> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 05-06-35:  [ADU_SpawnItems] Loot Spawned [6] PeachesCan @ <13380.744141, 34.038998, 3138.859375> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 05-06-35:  [ADU_SpawnItems] Loot Spawned [7] PeachesCan @ <13379.694336, 33.341465, 3135.986816> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 05-06-35:  [ADU_SpawnItems] Loot Spawned [8] PeachesCan @ <13380.043945, 33.920849, 3138.113037> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 05-06-35:  [ADU_SpawnItems] Loot Spawned [9] BakedBeansCan @ <13378.358398, 33.322948, 3135.337158> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 05-06-35:  [ADU_SpawnItems] Loot Spawned [10] Propital @ <13380.793945, 33.182961, 3135.978760> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 05-06-35:  [ADU_SpawnItems] Loot Spawned [11] PowderedMilk @ <13378.185547, 33.830284, 3136.962891> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 05-06-35:  [ADU_SpawnItems] Loot Spawned [12] Ibuprofen @ <13378.205078, 34.173641, 3138.136963> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 05-06-35:  [ADU_SpawnItems] Loot Spawned [13] BakedBeansCan @ <13380.173828, 33.972031, 3138.350830> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 05-06-35:  [ADU_SpawnItems] Loot Spawned [14] PeachesCan @ <13380.544922, 33.594818, 3137.253662> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 05-06-35:  [ADU_SpawnItems] Loot Spawned [15] WaterBottle @ <13376.771484, 34.319046, 3137.984863> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 05-06-35:  [ADU_SpawnItems] Loot Spawned [16] Canteen @ <13381.524414, 33.117588, 3136.117188> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 05-06-35:  [ADU_SpawnItems] Loot Spawned [17] PowderedMilk @ <13377.042969, 34.347229, 3138.200195> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 05-06-35:  [ADU_SpawnItems] Loot Spawned [18] TacticalBaconCan @ <13378.736328, 33.465023, 3135.976318> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 05-06-35:  [ADU_SpawnItems] Loot Spawned [19] Propital @ <13382.074219, 33.144989, 3136.481201> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 05-06-35:  [ADU_SpawnItems] Loot Spawned [20] Ibuprofen @ <13381.300781, 34.063580, 3139.217529> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 05-06-35:  [ADU_SpawnItems] Airdrop Flare Spawned @ <13380.125977, 34.428730, 3139.876953> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 05-06-35:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-10-25 @ 05-06-35:  [EOnSimulate] Airdrop Container deactivated.
+2021-10-25 @ 05-44-14:  [~AirdropContainerBase] Log file closed.
+2021-10-25 @ 05-44-14:  [~AirdropContainerBase] Container Destroyed.

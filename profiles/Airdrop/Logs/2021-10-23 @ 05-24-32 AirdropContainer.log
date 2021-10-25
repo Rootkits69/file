@@ -1,0 +1,26 @@
+2021-10-23 @ 05-24-32:  [InitializeContainer] Winds: Vector <-14.979487, 0.000000, 0.580919>, Speed 14.9907mps, Strength 0.1
+2021-10-23 @ 05-24-32:  [InitializeContainer] Parachute created on @ <3691.000000, 142.724777, 2172.625000>
+2021-10-23 @ 05-26-48:  [AirdropContainerFall] Airdrop Container Touchdown @ <3691.181152, 5.872872, 2172.614746>
+2021-10-23 @ 05-26-48:  [ADU_RemoveParachute] Parachute removed.
+2021-10-23 @ 05-26-48:  [ADU_RepositionContainer] Container repositioned.
+2021-10-23 @ 05-26-48:  [ADU_SpawnItems] Drop Type 'Military Weapons', Container: 'AirdropContainer_Military', Mode/Quantity/Iems: Random/15/279, Flare:  10%
+2021-10-23 @ 05-26-48:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-10-23 @ 05-26-48:  [ADU_SpawnItems] Loot Spawned [1] Doc_LeeEnfieldMk4_54_3 @ <3693.295654, 2.867819, 2174.469482> ... Lifespan:  Set to 60 minutes.
+2021-10-23 @ 05-26-48:  [ADU_SpawnItems] Loot Spawned [2] MilitaryBoots_Redpunk @ <3692.411133, 2.769734, 2172.627441> ... Lifespan:  Set to 60 minutes.
+2021-10-23 @ 05-26-48:  [ADU_SpawnItems] Loot Spawned [3] MilitaryGear_GhillieHood_PartizanM @ <3693.114502, 2.614825, 2172.084473> ... Lifespan:  Set to 60 minutes.
+2021-10-23 @ 05-26-48:  [ADU_SpawnItems] Loot Spawned [4] Doc_SKS45 @ <3691.714355, 3.052385, 2174.279297> ... Lifespan:  Set to 60 minutes.
+2021-10-23 @ 05-26-48:  [ADU_SpawnItems] Loot Spawned [5] Doc_LeeEnfieldJungle_54_5 @ <3689.819824, 3.054173, 2171.062500> ... Lifespan:  Set to 60 minutes.
+2021-10-23 @ 05-26-48:  [ADU_SpawnItems] Loot Spawned [6] MilitaryGear_GhillieBushrag_Splinter_Dark @ <3691.664795, 2.980100, 2173.600342> ... Lifespan:  Set to 60 minutes.
+2021-10-23 @ 05-26-48:  [ADU_SpawnItems] Loot Spawned [7] Mag_HKMK23_12Rnd @ <3689.874756, 3.097929, 2171.664307> ... Lifespan:  Set to 60 minutes.
+2021-10-23 @ 05-26-48:  [ADU_SpawnItems] Loot Spawned [8] Doc_Mag_AKM_40rnd @ <3690.766357, 3.188022, 2174.380859> ... Lifespan:  Set to 60 minutes.
+2021-10-23 @ 05-26-48:  [ADU_SpawnItems] Loot Spawned [9] Doc_Mag_CA50_3Rnd @ <3693.840820, 2.659023, 2173.283691> ... Lifespan:  Set to 60 minutes.
+2021-10-23 @ 05-26-48:  [ADU_SpawnItems] Loot Spawned [10] Doc_Mag_AKM_10rnd @ <3693.142822, 2.494208, 2170.761963> ... Lifespan:  Set to 60 minutes.
+2021-10-23 @ 05-26-48:  [ADU_SpawnItems] Loot Spawned [11] Mag_AK5C @ <3693.764160, 2.648465, 2173.106445> ... Lifespan:  Set to 60 minutes.
+2021-10-23 @ 05-26-48:  [ADU_SpawnItems] Loot Spawned [12] Doc_Groza1 @ <3690.298584, 2.995206, 2171.179688> ... Lifespan:  Set to 60 minutes.
+2021-10-23 @ 05-26-48:  [ADU_SpawnItems] Loot Spawned [13] M4A1 @ <3690.441650, 3.006295, 2171.597656> ... Lifespan:  Set to 60 minutes.
+2021-10-23 @ 05-26-48:  [ADU_SpawnItems] Loot Spawned [14] Doc_SVT40 @ <3689.854736, 3.031524, 2170.834473> ... Lifespan:  Set to 60 minutes.
+2021-10-23 @ 05-26-48:  [ADU_SpawnItems] Loot Spawned [15] Doc_LeeEnfieldJungle_54 @ <3689.044189, 3.320621, 2173.259766> ... Lifespan:  Set to 60 minutes.
+2021-10-23 @ 05-26-48:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-10-23 @ 05-26-48:  [EOnSimulate] Airdrop Container deactivated.
+2021-10-23 @ 06-04-32:  [~AirdropContainerBase] Log file closed.
+2021-10-23 @ 06-04-32:  [~AirdropContainerBase] Container Destroyed.

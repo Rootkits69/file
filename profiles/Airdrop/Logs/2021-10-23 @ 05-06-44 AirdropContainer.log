@@ -1,0 +1,27 @@
+2021-10-23 @ 05-06-44:  [InitializeContainer] Winds: Vector <8.182972, 0.000000, -11.388776>, Speed 14.0237mps, Strength 0.1
+2021-10-23 @ 05-06-44:  [InitializeContainer] Parachute created on @ <5004.036621, 161.174194, 2578.028809>
+2021-10-23 @ 05-09-13:  [AirdropContainerFall] Airdrop Container Touchdown @ <5004.672363, 12.326735, 2578.020996>
+2021-10-23 @ 05-09-13:  [ADU_RemoveParachute] Parachute removed.
+2021-10-23 @ 05-09-13:  [ADU_RepositionContainer] Container repositioned.
+2021-10-23 @ 05-09-13:  [ADU_SpawnItems] Drop Type 'Military Weapons', Container: 'AirdropContainer_Military', Mode/Quantity/Iems: Random/15/279, Flare:  10%
+2021-10-23 @ 05-09-13:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-10-23 @ 05-09-13:  [ADU_SpawnItems] Loot Spawned [1] Doc_G3_10rnd_Mag @ <5006.579590, 9.518704, 2575.931641> ... Lifespan:  Set to 60 minutes.
+2021-10-23 @ 05-09-13:  [ADU_SpawnItems] Loot Spawned [2] Mosin_Bayonet @ <5003.665527, 9.359867, 2578.619385> ... Lifespan:  Set to 60 minutes.
+2021-10-23 @ 05-09-13:  [ADU_SpawnItems] Loot Spawned [3] HDSN_Detonator @ <5006.630859, 9.534039, 2576.548096> ... Lifespan:  Set to 60 minutes.
+2021-10-23 @ 05-09-13:  [ADU_SpawnItems] Loot Spawned [4] Doc_Makarov @ <5004.882813, 9.438601, 2576.906738> ... Lifespan:  Set to 60 minutes.
+2021-10-23 @ 05-09-13:  [ADU_SpawnItems] Loot Spawned [5] Doc_AVT40 @ <5003.409180, 9.353267, 2579.750732> ... Lifespan:  Set to 60 minutes.
+2021-10-23 @ 05-09-13:  [ADU_SpawnItems] Loot Spawned [6] Doc_Mag_AKM_10rnd @ <5003.604492, 9.372252, 2577.939209> ... Lifespan:  Set to 60 minutes.
+2021-10-23 @ 05-09-13:  [ADU_SpawnItems] Loot Spawned [7] Doc_G3_5rnd_Mag @ <5003.919434, 9.388852, 2579.617432> ... Lifespan:  Set to 60 minutes.
+2021-10-23 @ 05-09-13:  [ADU_SpawnItems] Loot Spawned [8] Doc_ASVAL @ <5002.326660, 9.357671, 2576.427734> ... Lifespan:  Set to 60 minutes.
+2021-10-23 @ 05-09-13:  [ADU_SpawnItems] Loot Spawned [9] AKM @ <5007.325195, 9.602761, 2577.453857> ... Lifespan:  Set to 60 minutes.
+2021-10-23 @ 05-09-13:  [ADU_SpawnItems] Loot Spawned [10] Doc_Mag_AKM_40rnd @ <5005.060547, 9.475290, 2575.475586> ... Lifespan:  Set to 60 minutes.
+2021-10-23 @ 05-09-13:  [ADU_SpawnItems] Loot Spawned [11] Mag_AK5C @ <5005.992188, 9.536901, 2579.257568> ... Lifespan:  Set to 60 minutes.
+2021-10-23 @ 05-09-13:  [ADU_SpawnItems] Spawn failed for item [12] 'Doc_MK23', does not exist in DayZ!
+2021-10-23 @ 05-09-13:  [ADU_SpawnItems] Loot Spawned [13] MilitaryGear_GhillieBushrag_Tiger @ <5006.393555, 9.516868, 2576.578613> ... Lifespan:  Set to 60 minutes.
+2021-10-23 @ 05-09-13:  [ADU_SpawnItems] Loot Spawned [14] LargeTent @ <5006.290039, 9.542942, 2578.389160> ... Lifespan:  Set to 60 minutes.
+2021-10-23 @ 05-09-13:  [ADU_SpawnItems] Loot Spawned [15] Mosin_Bayonet @ <5003.566406, 9.381418, 2577.447754> ... Lifespan:  Set to 60 minutes.
+2021-10-23 @ 05-09-13:  [ADU_SpawnItems] Airdrop Flare Spawned @ <5006.239746, 9.529856, 2577.889648> ... Lifespan:  Set to 60 minutes.
+2021-10-23 @ 05-09-13:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-10-23 @ 05-09-13:  [EOnSimulate] Airdrop Container deactivated.
+2021-10-23 @ 05-46-44:  [~AirdropContainerBase] Log file closed.
+2021-10-23 @ 05-46-44:  [~AirdropContainerBase] Container Destroyed.

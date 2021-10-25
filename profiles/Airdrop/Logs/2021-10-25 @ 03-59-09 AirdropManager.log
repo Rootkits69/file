@@ -1,0 +1,19 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] DropZone exported not bypassed.
+[AirdropBase] Base class created & settings loaded.
+[2021-10-25 @ 05-00-57] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Skalisty Island <13452.000000, 0.000000, 3112.000000>
+[EOnCallAirdrop] Drop zone offset to: <13473.840820, 2438.000000, 3170.385742>
+[EOnCallAirdrop] Aircraft spawn point: <-1000.000000, 2438.000000, 8220.132813>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 2.80184° / 289.466°, Text: 'West (289°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Skalisty Island' (-1000/8220.13), from the West (289°).
+[2021-10-25 @ 06-02-08] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Krasnostav <12159.000000, 0.000000, 12583.000000>
+[EOnCallAirdrop] Drop zone offset to: <12163.246094, 2438.000000, 12681.892578>
+[EOnCallAirdrop] Aircraft spawn point: <16360.000000, 2438.000000, 12648.211914>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 0.0155217° / 89.1107°, Text: 'East (089°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Krasnostav' (16360/12648.2), from the East (089°).

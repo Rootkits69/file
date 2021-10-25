@@ -1,0 +1,52 @@
+[COT 2021-10-08 01:35:59] 76561199068832255: Spawned Entity Flag Pole Kit (TerritoryFlagKit<9fc7f350>, -1, 200) at <7168.677246, 5.945948, 2612.454102>
+[COT 2021-10-08 01:36:18] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-08 01:36:24] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-08 01:36:24] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-08 01:36:28] 76561199068832255: ESP target=TerritoryFlag<8fc27490> action=built part=base required_materials=false
+[COT 2021-10-08 01:36:50] 76561199068832255: Spawned Entity Wooden log (WoodenLog<9fc9c6f0>, 1, 500) at <7173.350586, 5.889483, 2607.330811>
+[COT 2021-10-08 01:36:50] 76561199068832255: Spawned Entity Wooden log (WoodenLog<9fc87450>, 1, 500) at <7173.350586, 5.889483, 2607.330811>
+[COT 2021-10-08 01:36:50] 76561199068832255: Spawned Entity Wooden log (WoodenLog<9fca3fe0>, 1, 500) at <7173.350586, 5.889483, 2607.330811>
+[COT 2021-10-08 01:36:50] 76561199068832255: Spawned Entity Wooden log (WoodenLog<9fc9cf00>, 1, 500) at <7173.350586, 5.889483, 2607.330811>
+[COT 2021-10-08 01:37:34] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-08 02:57:03] 76561199068832255: Spawned Entity Wood Greenhouse Kit (Msp_GreenhouseWood_Kit<448a5cb0>, -1, 100) at <9318.848633, 108.734016, 13219.785156>
+[COT 2021-10-08 03:19:02] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-08 03:19:05] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-08 03:19:06] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-08 03:19:12] 76561199068832255: ESP target=Fence<900db40> action=built part=wall_metal_up required_materials=false
+[COT 2021-10-08 03:19:16] 76561199068832255: ESP target=Fence<900db40> action=built part=wall_wood_down required_materials=false
+[COT 2021-10-08 03:19:17] 76561199068832255: ESP target=Fence<900db40> action=built part=wall_gate required_materials=false
+[COT 2021-10-08 03:19:39] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-08 03:20:17] 76561199068832255: Spawned vehicle M3S Covered (Truck_01_Covered) at <3111.784668, 301.015594, 8099.062988>
+[COT 2021-10-08 03:44:06] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-08 03:44:09] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-08 03:44:09] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-08 03:44:10] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-08 03:44:12] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-08 03:45:18] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-08 03:45:20] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-08 03:46:43] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-08 03:46:43] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-08 03:46:50] 76561199068832255: ESP target=Fence<62b20d0> action=built part=base required_materials=false
+[COT 2021-10-08 03:46:51] 76561199068832255: ESP target=Fence<62b20d0> action=dismantle part=base
+[COT 2021-10-08 03:46:56] 76561199068832255: ESP target=Fence<972fd7c0> action=built part=base required_materials=false
+[COT 2021-10-08 03:46:58] 76561199068832255: ESP target=Fence<972fd7c0> action=built part=wall_base_down required_materials=false
+[COT 2021-10-08 03:46:59] 76561199068832255: ESP target=Fence<972fd7c0> action=built part=wall_wood_down required_materials=false
+[COT 2021-10-08 03:47:01] 76561199068832255: ESP target=Fence<972fd7c0> action=built part=wall_base_up required_materials=false
+[COT 2021-10-08 03:47:02] 76561199068832255: ESP target=Fence<972fd7c0> action=built part=wall_wood_up required_materials=false
+[COT 2021-10-08 03:47:27] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-08 03:47:27] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-08 03:47:32] 76561199068832255: ESP target=Fence<972fe9e0> action=built part=base required_materials=false
+[COT 2021-10-08 03:47:34] 76561199068832255: ESP target=Fence<972fe9e0> action=built part=wall_base_down required_materials=false
+[COT 2021-10-08 03:47:35] 76561199068832255: ESP target=Fence<972fe9e0> action=built part=wall_base_up required_materials=false
+[COT 2021-10-08 03:47:36] 76561199068832255: ESP target=Fence<972fe9e0> action=built part=wall_wood_down required_materials=false
+[COT 2021-10-08 03:47:38] 76561199068832255: ESP target=Fence<972fe9e0> action=built part=wall_wood_up required_materials=false
+[COT 2021-10-08 03:48:27] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-08 03:48:27] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-08 03:48:30] 76561199068832255: ESP target=Fence<cb706a70> action=built part=base required_materials=false
+[COT 2021-10-08 03:48:31] 76561199068832255: ESP target=Fence<cb706a70> action=built part=wall_base_down required_materials=false
+[COT 2021-10-08 03:48:32] 76561199068832255: ESP target=Fence<cb706a70> action=built part=wall_wood_down required_materials=false
+[COT 2021-10-08 03:48:33] 76561199068832255: ESP target=Fence<cb706a70> action=built part=wall_base_up required_materials=false
+[COT 2021-10-08 03:48:34] 76561199068832255: ESP target=Fence<cb706a70> action=built part=wall_wood_up required_materials=false
+[COT 2021-10-08 03:48:44] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-08 03:48:45] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-08 03:48:46] 76561199068832255: ESP: Clearing ESP

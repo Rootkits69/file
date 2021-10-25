@@ -1,0 +1,27 @@
+2021-10-25 @ 17-25-06:  [InitializeContainer] Winds: Vector <1.372727, 0.000000, -6.925818>, Speed 7.06055mps, Strength 0.1
+2021-10-25 @ 17-25-06:  [InitializeContainer] Parachute created on @ <9335.063477, 219.633423, 2316.721680>
+2021-10-25 @ 17-27-32:  [AirdropContainerFall] Airdrop Container Touchdown @ <9334.836914, 73.502472, 2316.941406>
+2021-10-25 @ 17-27-32:  [ADU_RemoveParachute] Parachute removed.
+2021-10-25 @ 17-27-32:  [ADU_RepositionContainer] Container repositioned.
+2021-10-25 @ 17-27-32:  [ADU_SpawnItems] Drop Type 'Building Supplies', Container: 'AirdropContainer', Mode/Quantity/Iems: Random/15/203, Flare:  10%
+2021-10-25 @ 17-27-32:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-10-25 @ 17-27-32:  [ADU_SpawnItems] Loot Spawned [1] MetalWire @ <9336.095703, 53.109097, 2316.457031> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 17-27-32:  [ADU_SpawnItems] Loot Spawned [2] Hatchet @ <9333.841797, 53.016151, 2316.370361> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 17-27-32:  [ADU_SpawnItems] Loot Spawned [3] Hatchet @ <9336.397461, 53.145832, 2316.587158> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 17-27-32:  [ADU_SpawnItems] Loot Spawned [4] MetalWire @ <9333.888672, 52.858669, 2315.595703> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 17-27-32:  [ADU_SpawnItems] Loot Spawned [5] NailBox @ <9336.847656, 53.031136, 2315.955322> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 17-27-32:  [ADU_SpawnItems] Loot Spawned [6] MediumTent_Green @ <9333.816406, 53.320713, 2317.893555> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 17-27-32:  [ADU_SpawnItems] Loot Spawned [7] CarTent @ <9336.732422, 53.209965, 2316.844971> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 17-27-32:  [ADU_SpawnItems] Loot Spawned [8] CarTent @ <9335.903320, 52.930962, 2315.620850> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 17-27-32:  [ADU_SpawnItems] Loot Spawned [9] Msp_ToolsBench_Blue_Kit @ <9334.501953, 52.942184, 2315.903076> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 17-27-32:  [ADU_SpawnItems] Loot Spawned [10] Hatchet @ <9333.567383, 52.880760, 2315.755615> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 17-27-32:  [ADU_SpawnItems] Spawn failed for item [11] 'WoodenPlanks', does not exist in DayZ!
+2021-10-25 @ 17-27-32:  [ADU_SpawnItems] Loot Spawned [12] Pliers @ <9332.620117, 52.741081, 2315.229248> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 17-27-32:  [ADU_SpawnItems] Loot Spawned [13] Pliers @ <9332.466797, 53.191952, 2317.449707> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 17-27-32:  [ADU_SpawnItems] Loot Spawned [14] Pickaxe @ <9336.578125, 53.115593, 2316.410400> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 17-27-32:  [ADU_SpawnItems] Loot Spawned [15] Msp_FourDoor_MilitaryLocker_Kit @ <9332.722656, 53.492485, 2319.009033> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 17-27-32:  [ADU_SpawnItems] Airdrop Flare Spawned @ <9334.972656, 53.710709, 2319.776367> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 17-27-32:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-10-25 @ 17-27-32:  [EOnSimulate] Airdrop Container deactivated.
+2021-10-25 @ 18-05-06:  [~AirdropContainerBase] Log file closed.
+2021-10-25 @ 18-05-06:  [~AirdropContainerBase] Container Destroyed.

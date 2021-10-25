@@ -1,0 +1,42 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] DropZone exported not bypassed.
+[AirdropBase] Base class created & settings loaded.
+[2021-10-23 @ 04-03-09] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Novodmitrovsk <11125.000000, 0.000000, 14040.000000>
+[EOnCallAirdrop] Drop zone offset to: <11106.020508, 2438.000000, 14032.676758>
+[EOnCallAirdrop] Aircraft spawn point: <-1000.000000, 2438.000000, 7381.986816>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -2.63943° / 241.228°, Text: 'South/West (241°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Novodmitrovsk' (-1000/7381.99), from the South/West (241°).
+[2021-10-23 @ 05-03-57] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Balota <5043.000000, 0.000000, 2505.000000>
+[EOnCallAirdrop] Drop zone offset to: <4998.183105, 2438.000000, 2587.878174>
+[EOnCallAirdrop] Aircraft spawn point: <-1000.000000, 2438.000000, 13979.073242>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 2.05555° / 332.226°, Text: 'North/West (332°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Balota' (-1000/13979.1), from the North/West (332°).
+[ReplaceAirdropFlare] 'Road Flare' activted in player's hand (SonJd).
+[2021-10-23 @ 05-21-47] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Player Called <3604.768311, 6.012480, 2165.275146>
+[EOnCallAirdrop] Drop zone offset to: <3616.119385, 2438.000000, 2160.775635>
+[EOnCallAirdrop] Aircraft spawn point: <16360.000000, 2438.000000, 3268.609375>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 0.0862857° / 85.0562°, Text: 'East (085°)'
+[EOnCallAirdrop] Aircraft was dispatched to the player's location (16360/3268.61), from the East (085°).
+[2021-10-23 @ 06-05-03] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Northwest Airfield <4807.000000, 0.000000, 9812.000000>
+[EOnCallAirdrop] Drop zone offset to: <4836.343750, 2438.000000, 9750.980469>
+[EOnCallAirdrop] Aircraft spawn point: <-1000.000000, 2438.000000, 2240.264893>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -2.22505° / 217.486°, Text: 'South/West (217°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Northwest Airfield' (-1000/2240.26), from the South/West (217°).
+[ReplaceAirdropFlare] 'Road Flare' activted in player's hand ([PROT]Mr.Nobody).
+[2021-10-23 @ 06-36-16] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Player Called <8089.407715, 347.920166, 10462.388672>
+[EOnCallAirdrop] Drop zone offset to: <8170.861816, 2438.000000, 10408.453125>
+[EOnCallAirdrop] Aircraft spawn point: <16360.000000, 2438.000000, 13869.404297>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 0.39076° / 67.6111°, Text: 'East (068°)'
+[EOnCallAirdrop] Aircraft was dispatched to the player's location (16360/13869.4), from the East (068°).

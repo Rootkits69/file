@@ -1,0 +1,26 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] DropZone exported not bypassed.
+[AirdropBase] Base class created & settings loaded.
+[2021-10-23 @ 08-05-16] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Balota <5043.000000, 0.000000, 2505.000000>
+[EOnCallAirdrop] Drop zone offset to: <5071.019043, 2438.000000, 2520.773926>
+[EOnCallAirdrop] Aircraft spawn point: <16360.000000, 2438.000000, 12225.959961>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 0.709678° / 49.3384°, Text: 'North/East (049°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Balota' (16360/12226), from the North/East (049°).
+[2021-10-23 @ 09-06-27] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Novodmitrovsk <11125.000000, 0.000000, 14040.000000>
+[EOnCallAirdrop] Drop zone offset to: <11045.805664, 2438.000000, 14046.080078>
+[EOnCallAirdrop] Aircraft spawn point: <-1000.000000, 2438.000000, 8996.821289>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -2.74743° / 247.416°, Text: 'South/West (247°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Novodmitrovsk' (-1000/8996.82), from the South/West (247°).
+[2021-10-23 @ 10-07-38] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Elektrozavodsk <9371.000000, 0.000000, 2229.000000>
+[EOnCallAirdrop] Drop zone offset to: <9298.242188, 2438.000000, 2181.157715>
+[EOnCallAirdrop] Aircraft spawn point: <-1000.000000, 2438.000000, 3154.701904>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 3.05257° / 275.101°, Text: 'West (275°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Elektrozavodsk' (-1000/3154.7), from the West (275°).

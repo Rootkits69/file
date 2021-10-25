@@ -1,0 +1,26 @@
+2021-10-25 @ 11-03-46:  [AirdropPlane] Aircraft created on 2021-10-25 @ 11-03-46
+2021-10-25 @ 11-03-46:  [InitializeAircraft] Aircraft Initialized: Novy Sobor @ 7436/7720 (true)
+2021-10-25 @ 11-03-53:  [EOnSpawnZombies] Zombie Spawned [1] ZmbF_SurvivorNormal_Red @ <7469.256836, 322.701202, 7706.491211> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 11-04-00:  [EOnSpawnZombies] Zombie Spawned [2] ZmbF_SurvivorNormal_Red @ <7427.172852, 315.840881, 7681.500977> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 11-04-07:  [EOnSpawnZombies] Zombie Spawned [3] ZmbM_HermitSkinny_Black @ <7431.943359, 319.867615, 7728.412598> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 11-04-14:  [EOnSpawnZombies] Zombie Spawned [4] ZmbM_HermitSkinny_Beige @ <7406.394043, 315.270233, 7738.769043> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 11-04-21:  [EOnSpawnZombies] Zombie Spawned [5] ZmbM_HikerSkinny_Green @ <7430.779785, 318.319000, 7713.450195> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 11-04-28:  [EOnSpawnZombies] Zombie Spawned [6] ZmbM_MotobikerFat_Black @ <7441.409180, 322.940094, 7753.420410> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 11-04-35:  [EOnSpawnZombies] Zombie Spawned [7] ZmbF_VillagerOld_Red @ <7418.475586, 319.557526, 7757.139648> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 11-04-41:  [EOnSpawnZombies] Zombie Spawned [8] ZmbM_HermitSkinny_Green @ <7430.740723, 317.481750, 7701.751465> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 11-04-48:  [EOnSpawnZombies] Zombie Spawned [9] ZmbF_MilkMaidOld_Black @ <7434.059570, 320.426453, 7731.282227> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 11-04-55:  [EOnSpawnZombies] Zombie Spawned [10] ZmbF_VillagerOld_Red @ <7456.852051, 320.819489, 7701.345215> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 11-05-02:  [EOnSpawnZombies] Zombie Spawned [11] ZmbM_HunterOld_Spring @ <7400.456055, 313.081085, 7730.608398> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 11-05-09:  [EOnSpawnZombies] Zombie Spawned [12] ZmbM_HunterOld_Spring @ <7449.720703, 320.531860, 7708.047852> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 11-05-16:  [EOnSpawnZombies] Spawn failed for zombie [13] 'ZmbM_SurvivorDean_Blue', it does not exist in DayZ!
+2021-10-25 @ 11-05-23:  [EOnSpawnZombies] Zombie Spawned [14] ZmbM_HermitSkinny_Beige @ <7439.686035, 320.798035, 7726.736816> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 11-05-30:  [EOnSpawnZombies] Zombie Spawned [15] ZmbF_MilkMaidOld_Grey @ <7434.168457, 319.068451, 7715.285645> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 11-05-37:  [EOnSpawnZombies] Zombie Spawned [16] ZmbF_MilkMaidOld_Black @ <7417.037598, 314.666199, 7704.294434> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 11-05-43:  [EOnSpawnZombies] Zombie Spawned [17] ZmbM_FarmerFat_Brown @ <7430.459473, 316.131989, 7679.578125> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 11-05-50:  [EOnSpawnZombies] Zombie Spawned [18] ZmbM_MotobikerFat_Blue @ <7453.931641, 323.352142, 7738.237793> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 11-05-51:  [EOnBeforeDrop] The Aircraft is 1 Km from Novy Sobor, from the North/East (036°). @ <8016.971680, 586.553650, 8533.562500>
+2021-10-25 @ 11-05-57:  [EOnSpawnZombies] Zombie Spawned [19] ZmbF_SurvivorNormal_Red @ <7463.415039, 321.978607, 7706.172852> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 11-06-03:  [EOnDrop] Drop spawned with 20 infected at <7486.694336, 488.716034, 7790.804688>.
+2021-10-25 @ 11-06-03:  [EOnDrop] Supplies have been dropped near Novy Sobor.
+2021-10-25 @ 11-08-23:  [EOnBeforeDelete] Aircraft despawned @ <1210.227783, 152.000610, -1000.586121>
+2021-10-25 @ 11-08-23:  [~AirdropPlane] Aircraft destroyed.

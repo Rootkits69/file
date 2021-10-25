@@ -1,0 +1,12 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] DropZone exported not bypassed.
+[AirdropBase] Base class created & settings loaded.
+[2021-10-24 @ 12-22-05] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Krasnostav <12159.000000, 0.000000, 12583.000000>
+[EOnCallAirdrop] Drop zone offset to: <12175.433594, 2438.000000, 12576.656250>
+[EOnCallAirdrop] Aircraft spawn point: <16360.000000, 2438.000000, 14995.231445>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 0.521236° / 60.1354°, Text: 'North/East (060°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Krasnostav' (16360/14995.2), from the North/East (060°).

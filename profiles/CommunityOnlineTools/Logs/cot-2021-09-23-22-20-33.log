@@ -1,0 +1,46 @@
+[COT 2021-09-24 00:17:08] 76561199068832255: Spawned Entity Admin Rootkit Plate Carrier (PlateCarrierVest<8f3bf7d0>, -1, 1.21575e+09) at <6531.614746, 374.000824, 14436.152344>
+[COT 2021-09-24 00:18:37] 76561199068832255: ESP: Viewing ESP
+[COT 2021-09-24 00:20:10] 76561199068832255: Set Broken Legs To false [guid=UYRRa-F5_-MtkOHub98pENKglKsLALLRB6hjWAKvLGc=]
+[COT 2021-09-24 00:20:11] 76561199068832255: Set Broken Legs To true [guid=UYRRa-F5_-MtkOHub98pENKglKsLALLRB6hjWAKvLGc=]
+[COT 2021-09-24 00:20:13] 76561199068832255: Set Broken Legs To false [guid=UYRRa-F5_-MtkOHub98pENKglKsLALLRB6hjWAKvLGc=]
+[COT 2021-09-24 00:20:17] 76561199068832255: Set GodMode To true [guid=UYRRa-F5_-MtkOHub98pENKglKsLALLRB6hjWAKvLGc=]
+[COT 2021-09-24 00:20:45] 76561199068832255: Set GodMode To false [guid=UYRRa-F5_-MtkOHub98pENKglKsLALLRB6hjWAKvLGc=]
+[COT 2021-09-24 00:20:46] 76561199068832255: Healed [guid=UYRRa-F5_-MtkOHub98pENKglKsLALLRB6hjWAKvLGc=]
+[COT 2021-09-24 00:20:50] 76561199068832255: Set GodMode To true [guid=UYRRa-F5_-MtkOHub98pENKglKsLALLRB6hjWAKvLGc=]
+[COT 2021-09-24 00:37:35] 76561199068832255: ESP: Viewing ESP
+[COT 2021-09-24 00:38:24] 76561199068832255: ESP target=Fence<b82e14c0> action=built part=wall_base_down required_materials=false
+[COT 2021-09-24 00:38:26] 76561199068832255: ESP target=Fence<b82e14c0> action=built part=wall_wood_down required_materials=false
+[COT 2021-09-24 00:38:29] 76561199068832255: ESP target=Fence<b82e14c0> action=built part=wall_base_up required_materials=false
+[COT 2021-09-24 00:38:30] 76561199068832255: ESP target=Fence<b82e14c0> action=built part=wall_wood_up required_materials=false
+[COT 2021-09-24 00:39:02] 76561199068832255: ESP target=Fence:050423 position=<11442.457031, 223.442886, 7473.328613> action=delete
+[COT 2021-09-24 00:39:25] 76561199068832255: Spawned Entity Nails (Nail<c7ca3dd0>, 70, 80) at <11438.259766, 221.012421, 7474.558594>
+[COT 2021-09-24 00:39:25] 76561199068832255: Spawned Entity Nails (Nail<c7caf950>, 70, 80) at <11438.259766, 221.012421, 7474.558594>
+[COT 2021-09-24 00:39:25] 76561199068832255: Spawned Entity Nails (Nail<c7cb1890>, 70, 80) at <11438.259766, 221.012421, 7474.558594>
+[COT 2021-09-24 00:39:25] 76561199068832255: Spawned Entity Nails (Nail<c7caa360>, 70, 80) at <11438.259766, 221.012421, 7474.558594>
+[COT 2021-09-24 00:40:09] 76561199068832255: Spawned Entity Plank (WoodenPlank<51ef9e90>, 10, 100) at <11437.651367, 221.012390, 7474.702637>
+[COT 2021-09-24 00:40:09] 76561199068832255: Spawned Entity Plank (WoodenPlank<51ef5070>, 10, 100) at <11437.651367, 221.012390, 7474.702637>
+[COT 2021-09-24 00:41:25] 76561199068832255: ESP: Clearing ESP
+[COT 2021-09-24 00:41:25] 76561199068832255: ESP: Viewing ESP
+[COT 2021-09-24 00:41:31] 76561199068832255: ESP target=Fence<aafb8b30> action=built part=wall_wood_down required_materials=false
+[COT 2021-09-24 00:41:43] 76561199068832255: ESP: Clearing ESP
+[COT 2021-09-24 00:41:44] 76561199068832255: ESP: Viewing ESP
+[COT 2021-09-24 00:41:48] 76561199068832255: ESP target=Fence<e08f5f60> action=built part=base required_materials=false
+[COT 2021-09-24 00:41:49] 76561199068832255: ESP target=Fence<e08f5f60> action=built part=wall_base_down required_materials=false
+[COT 2021-09-24 00:41:50] 76561199068832255: ESP target=Fence<e08f5f60> action=built part=wall_wood_down required_materials=false
+[COT 2021-09-24 00:41:51] 76561199068832255: ESP target=Fence<e08f5f60> action=built part=wall_base_up required_materials=false
+[COT 2021-09-24 00:41:52] 76561199068832255: ESP target=Fence<e08f5f60> action=built part=wall_wood_up required_materials=false
+[COT 2021-09-24 00:43:01] 76561199068832255: ESP: Clearing ESP
+[COT 2021-09-24 00:43:08] 76561199068832255: ESP: Viewing ESP
+[COT 2021-09-24 00:43:11] 76561199068832255: ESP target=Fence<6c70c310> action=built part=base required_materials=false
+[COT 2021-09-24 00:43:12] 76561199068832255: ESP target=Fence<6c70c310> action=built part=wall_base_down required_materials=false
+[COT 2021-09-24 00:43:13] 76561199068832255: ESP target=Fence<6c70c310> action=built part=wall_wood_down required_materials=false
+[COT 2021-09-24 00:43:14] 76561199068832255: ESP target=Fence<6c70c310> action=built part=wall_base_up required_materials=false
+[COT 2021-09-24 00:43:15] 76561199068832255: ESP target=Fence<6c70c310> action=built part=wall_wood_up required_materials=false
+[COT 2021-09-24 00:43:38] 76561199068832255: ESP: Clearing ESP
+[COT 2021-09-24 00:43:38] 76561199068832255: ESP: Viewing ESP
+[COT 2021-09-24 00:44:12] 76561199068832255: Spawned Entity AR-15 30Rnd Mag (Doc_mag_m4<9b473180>, 1, 100) at <11446.277344, 221.458221, 7472.552734>
+[COT 2021-09-24 00:44:12] 76561199068832255: Spawned Entity AR-15 30Rnd Mag (Doc_mag_m4<9b473990>, 1, 100) at <11446.277344, 221.458221, 7472.552734>
+[COT 2021-09-24 01:48:10] 76561199068832255: Spawned Entity 9V Battery (Battery9V<aad118d0>, 50, 20) at <11447.259766, 221.458221, 7472.260742>
+[COT 2021-09-24 01:48:57] 76561199068832255: Spawned Entity Screwdriver (Screwdriver<a3527660>, -1, 100) at <3580.377197, 6.638467, 2160.212402>
+[COT 2021-09-24 01:49:33] 76561199068832255: Spawned Entity Hatchet (Hatchet<a39ab370>, -1, 150) at <3577.539795, 6.883574, 2159.651367>
+[COT 2021-09-24 01:49:59] 76561199068832255: Spawned Entity Vault Kit (MoreDoorVaultKit<31add1c0>, -1, 100) at <3580.229736, 6.638466, 2160.322021>

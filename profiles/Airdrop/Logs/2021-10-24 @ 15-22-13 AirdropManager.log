@@ -1,0 +1,12 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] DropZone exported not bypassed.
+[AirdropBase] Base class created & settings loaded.
+[2021-10-24 @ 16-23-50] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Novy Sobor <7436.000000, 0.000000, 7720.000000>
+[EOnCallAirdrop] Drop zone offset to: <7448.233398, 2438.000000, 7725.484863>
+[EOnCallAirdrop] Aircraft spawn point: <3584.370850, 2438.000000, -1000.000000>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -1.98673° / 203.831°, Text: 'South/West (204°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Novy Sobor' (3584.37/-1000), from the South/West (204°).

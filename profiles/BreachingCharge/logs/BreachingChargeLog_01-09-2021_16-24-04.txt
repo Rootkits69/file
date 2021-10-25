@@ -1,0 +1,4 @@
+[01/09/2021-17:58:30]	[PLACED]	[01/09/2021-17:58:30]	A charge has been placed!	 | HDSN_BreachingCharge, Position: <1190.187256, 345.172302, 9983.942383>, Target: MoreDoorSmall | Player: KingHotDog [76561199068832255]
+[01/09/2021-17:58:33]	[ARMED]		[01/09/2021-17:58:33]	A charge has been armed!	 | HDSN_BreachingCharge, Position: <1189.253174, 345.675964, 9984.912109>, Target: MoreDoorSmall | Player: KingHotDog [76561199068832255]
+[01/09/2021-18:00:13]	[DEFUSED]	[01/09/2021-18:00:13]	A charge has been defused!	 | HDSN_BreachingCharge, Position: <1189.253174, 345.675964, 9984.912109>, Target: MoreDoorSmall | Defusing Player: KingHotDog [76561199068832255] | Player: KingHotDog [76561199068832255]
+[01/09/2021-18:01:32]	[PLACED]	[01/09/2021-18:01:32]	A charge has been placed!	 | HDSN_BreachingChargeHeavy, Position: <1187.329468, 345.354614, 9987.253906>, Target: MoreDoorSmallMetal | Player: KingHotDog [76561199068832255]

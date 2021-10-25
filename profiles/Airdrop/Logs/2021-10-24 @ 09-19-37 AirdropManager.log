@@ -1,0 +1,12 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] DropZone exported not bypassed.
+[AirdropBase] Base class created & settings loaded.
+[2021-10-24 @ 10-21-14] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Elektrozavodsk <9371.000000, 0.000000, 2229.000000>
+[EOnCallAirdrop] Drop zone offset to: <9421.438477, 2438.000000, 2298.954834>
+[EOnCallAirdrop] Aircraft spawn point: <4309.139160, 2438.000000, -1000.000000>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -2.57377° / 237.466°, Text: 'South/West (237°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Elektrozavodsk' (4309.14/-1000), from the South/West (237°).

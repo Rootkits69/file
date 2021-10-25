@@ -1,0 +1,4 @@
+[14/10/2021-21:30:58]	[PLACED]	[14/10/2021-21:30:58]	A charge has been placed!	 | HDSN_BreachingCharge, Position: <10347.268555, 136.397202, 7408.494141>, Target: Fence_Gate | Player: Storm [76561198033243208]
+[14/10/2021-21:31:05]	[ARMED]		[14/10/2021-21:31:05]	A charge has been armed!	 | HDSN_BreachingCharge, Position: <10348.031250, 136.544510, 7410.623047>, Target: Fence_Gate | Player: Storm [76561198033243208]
+[14/10/2021-21:41:05]	[EXPLODED]	[14/10/2021-21:41:05]	A charge has exploded!		 | HDSN_BreachingCharge, Position: <10348.031250, 136.544510, 7410.623047>, Target: Fence_Gate, Damage done: 1 | Player: Storm [76561198033243208]
+[14/10/2021-21:41:05]	[DESTROYED]	[14/10/2021-21:41:05]	A target was destroyed!	 | HDSN_BreachingCharge, Position: <10348.031250, 136.544510, 7410.623047>, Target: Fence_Gate | Player: Storm [76561198033243208]

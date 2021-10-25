@@ -1,0 +1,7 @@
+[04/09/2021-20:41:12]	[PLACED]	[04/09/2021-20:41:12]	A charge has been placed!	 | HDSN_BreachingChargeHeavy, Position: <3584.591553, 7.223828, 2185.042725>, Target: Fence_Gate | Player: KingHotDog [76561199068832255]
+[04/09/2021-20:41:17]	[ARMED]		[04/09/2021-20:41:17]	A charge has been armed!	 | HDSN_BreachingChargeHeavy, Position: <3585.141602, 7.833440, 2183.803223>, Target: Fence_Gate | Player: KingHotDog [76561199068832255]
+[04/09/2021-20:45:44]	[DEFUSED]	[04/09/2021-20:45:44]	A charge has been defused!	 | HDSN_BreachingChargeHeavy, Position: <3585.141602, 7.833440, 2183.803223>, Target: Fence_Gate | Defusing Player: SonJd [76561198214438271] | Player: DarthErrina [76561199134542915]
+[04/09/2021-22:16:44]	[PLACED]	[04/09/2021-22:16:44]	A charge has been placed!	 | HDSN_BreachingCharge, Position: <3287.437012, 237.248764, 4939.717285>, Target: Fence_Gate | Player: iNSANE [76561198167062860]
+[04/09/2021-22:16:49]	[ARMED]		[04/09/2021-22:16:49]	A charge has been armed!	 | HDSN_BreachingCharge, Position: <3285.704346, 237.784866, 4939.124512>, Target: Fence_Gate | Player: iNSANE [76561198167062860]
+[04/09/2021-22:26:49]	[EXPLODED]	[04/09/2021-22:26:49]	A charge has exploded!		 | HDSN_BreachingCharge, Position: <3285.704346, 237.784866, 4939.124512>, Target: Fence_Gate, Damage done: 1 | Player: iNSANE [76561198167062860]
+[04/09/2021-22:26:49]	[DESTROYED]	[04/09/2021-22:26:49]	A target was destroyed!	 | HDSN_BreachingCharge, Position: <3285.704346, 237.784866, 4939.124512>, Target: Fence_Gate | Player: iNSANE [76561198167062860]

@@ -1,0 +1,6 @@
+[14/10/2021-17:30:53]	[PLACED]	[14/10/2021-17:30:53]	A charge has been placed!	 | HDSN_BreachingCharge, Position: <3586.697266, 6.907200, 2197.777832>, Target: SimpleBaseGate_Logs_Metal | Player: o [76561199068832255]
+[14/10/2021-17:30:56]	[ARMED]		[14/10/2021-17:30:56]	A charge has been armed!	 | HDSN_BreachingCharge, Position: <3587.458740, 7.527115, 2196.980225>, Target: SimpleBaseGate_Logs_Metal | Player: o [76561199068832255]
+[14/10/2021-17:40:56]	[EXPLODED]	[14/10/2021-17:40:56]	A charge has exploded!		 | HDSN_BreachingCharge, Position: <3587.458740, 7.527115, 2196.980225>, Target: SimpleBaseGate_Logs_Metal, Damage done: 1 | Player: o [76561199068832255]
+[14/10/2021-17:41:59]	[PLACED]	[14/10/2021-17:41:59]	A charge has been placed!	 | HDSN_BreachingCharge, Position: <3590.583984, 6.907141, 2193.611572>, Target: SimpleBaseGate_Logs_Metal | Player: o [76561199068832255]
+[14/10/2021-17:42:02]	[ARMED]		[14/10/2021-17:42:02]	A charge has been armed!	 | HDSN_BreachingCharge, Position: <3588.809082, 7.609378, 2193.721191>, Target: SimpleBaseGate_Logs_Metal | Player: o [76561199068832255]
+[14/10/2021-17:50:56]	[DEFUSED]	[14/10/2021-17:50:56]	A charge has been defused!	 | HDSN_BreachingCharge, Position: <3588.809082, 7.609378, 2193.721191>, Target: SimpleBaseGate_Logs_Metal | Defusing Player: SonJd [76561198214438271] | Player: o [76561199068832255]

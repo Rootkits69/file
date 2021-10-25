@@ -1,0 +1,51 @@
+[COT 2021-10-11 23:07:17] 76561199068832255: Set rain to 0 0 0
+[COT 2021-10-11 23:07:17] 76561199068832255: Set storm to 0 0.8 4000
+[COT 2021-10-11 23:07:17] 76561199068832255: Set fog to 0.01 0 0
+[COT 2021-10-11 23:07:17] 76561199068832255: Set overcast to 0.414098 0 0
+[COT 2021-10-11 23:07:17] 76561199068832255: Set the date to 2021/9/20 9:26
+[COT 2021-10-11 23:07:17] 76561199068832255: Set wind to 11.6546 11.6546 1
+[COT 2021-10-11 23:11:40] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-11 23:11:47] 76561199068832255: ESP target=Fence<166d93f0> action=built part=wall_gate required_materials=false
+[COT 2021-10-11 23:11:48] 76561199068832255: ESP target=Fence<166d93f0> action=built part=wall_wood_down required_materials=false
+[COT 2021-10-11 23:11:54] 76561199068832255: ESP target=Fence<166d93f0> action=built part=wall_wood_up required_materials=false
+[COT 2021-10-11 23:34:16] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-11 23:35:28] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-11 23:35:30] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-11 23:40:11] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-11 23:40:21] 76561199068832255: ESP target=Fence<e2af060> action=dismantle part=wall_gate
+[COT 2021-10-11 23:40:22] 76561199068832255: ESP target=Fence<e2af060> action=built part=wall_gate required_materials=false
+[COT 2021-10-11 23:40:30] 76561199068832255: ESP target=Fence<e2af060> action=dismantle part=wall_gate
+[COT 2021-10-11 23:40:32] 76561199068832255: ESP target=Fence<e2af060> action=dismantle part=wall_wood_down
+[COT 2021-10-11 23:40:38] 76561199068832255: ESP target=Fence<e2af060> action=built part=wall_wood_down required_materials=false
+[COT 2021-10-11 23:40:39] 76561199068832255: ESP target=Fence<e2af060> action=built part=wall_gate required_materials=false
+[COT 2021-10-11 23:41:01] 76561199068832255: ESP target=Fence:024148 position=<3587.055420, 18.611160, 2167.133301> action=delete
+[COT 2021-10-11 23:41:20] 76561199068832255: Spawned Entity Fence Kit (FenceKit<126d8c80>, -1, 200) at <3590.204102, 18.648958, 2167.921875>
+[COT 2021-10-11 23:41:43] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-11 23:41:54] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-11 23:42:12] 76561199068832255: ESP target=Fence<f27bc640> action=built part=base required_materials=false
+[COT 2021-10-11 23:42:13] 76561199068832255: ESP target=Fence<f27bc640> action=built part=wall_base_down required_materials=false
+[COT 2021-10-11 23:42:14] 76561199068832255: ESP target=Fence<f27bc640> action=built part=wall_wood_down required_materials=false
+[COT 2021-10-11 23:42:18] 76561199068832255: ESP target=Fence<f27bc640> action=built part=wall_base_up required_materials=false
+[COT 2021-10-11 23:42:20] 76561199068832255: ESP target=Fence<f27bc640> action=built part=wall_wood_up required_materials=false
+[COT 2021-10-11 23:42:22] 76561199068832255: ESP target=Fence<f27bc640> action=built part=wall_gate required_materials=false
+[COT 2021-10-11 23:42:28] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-11 23:43:55] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-11 23:43:57] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-11 23:44:04] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-11 23:44:07] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-11 23:44:07] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-11 23:44:12] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-11 23:44:12] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-11 23:44:22] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-11 23:44:23] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-11 23:57:45] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-11 23:57:46] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-11 23:57:56] 76561199068832255: ESP target=Fence<e2acc20> action=built part=wall_base_down required_materials=false
+[COT 2021-10-11 23:57:58] 76561199068832255: ESP target=Fence<e2acc20> action=built part=wall_wood_down required_materials=false
+[COT 2021-10-11 23:58:04] 76561199068832255: ESP target=Fence<e2acc20> action=built part=wall_base_up required_materials=false
+[COT 2021-10-11 23:58:06] 76561199068832255: ESP target=Fence<e2acc20> action=built part=wall_wood_up required_materials=false
+[COT 2021-10-11 23:58:21] 76561199068832255: ESP target=Fence<e2bf730> action=built part=wall_base_down required_materials=false
+[COT 2021-10-11 23:58:24] 76561199068832255: ESP target=Fence<e2bf730> action=built part=wall_wood_down required_materials=false
+[COT 2021-10-11 23:58:26] 76561199068832255: ESP target=Fence<e2bf730> action=built part=wall_base_up required_materials=false
+[COT 2021-10-11 23:58:27] 76561199068832255: ESP target=Fence<e2bf730> action=built part=wall_wood_up required_materials=false
+[COT 2021-10-11 23:58:31] 76561199068832255: ESP target=Fence<e2bf730> action=built part=wall_gate required_materials=false

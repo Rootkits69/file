@@ -1,0 +1,26 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] DropZone exported not bypassed.
+[AirdropBase] Base class created & settings loaded.
+[2021-10-23 @ 16-07-51] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Myshkino <2036.000000, 0.000000, 7491.000000>
+[EOnCallAirdrop] Drop zone offset to: <2012.691528, 2438.000000, 7517.397461>
+[EOnCallAirdrop] Aircraft spawn point: <1984.900635, 2438.000000, 16360.000000>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 1.57656° / 359.67°, Text: 'North (360°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Myshkino' (1984.9/16360), from the North (360°).
+[2021-10-23 @ 17-09-01] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Stary Sobor <5823.000000, 0.000000, 7764.000000>
+[EOnCallAirdrop] Drop zone offset to: <5871.240723, 2438.000000, 7849.161621>
+[EOnCallAirdrop] Aircraft spawn point: <1901.721802, 2438.000000, -1000.000000>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -1.99151° / 204.105°, Text: 'South/West (204°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Stary Sobor' (1901.72/-1000), from the South/West (204°).
+[2021-10-23 @ 18-10-11] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Skalisty Island <13452.000000, 0.000000, 3112.000000>
+[EOnCallAirdrop] Drop zone offset to: <13451.347656, 2438.000000, 3144.025635>
+[EOnCallAirdrop] Aircraft spawn point: <16360.000000, 2438.000000, 3848.211914>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 0.247958° / 75.7931°, Text: 'East (076°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Skalisty Island' (16360/3848.21), from the East (076°).

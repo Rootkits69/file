@@ -1,0 +1,4 @@
+[25/09/2021-17:14:07]	[PLACED]	[25/09/2021-17:14:07]	A charge has been placed!	 | HDSN_BreachingCharge, Position: <4272.383789, 249.390015, 4829.630371>, Target: Fence_Gate | Player: Ringo [76561198272441468]
+[25/09/2021-17:14:11]	[ARMED]		[25/09/2021-17:14:11]	A charge has been armed!	 | HDSN_BreachingCharge, Position: <4273.626465, 250.057388, 4829.500977>, Target: Fence_Gate | Player: Ringo [76561198272441468]
+[25/09/2021-17:24:11]	[EXPLODED]	[25/09/2021-17:24:11]	A charge has exploded!		 | HDSN_BreachingCharge, Position: <4273.626465, 250.057388, 4829.500977>, Target: Fence_Gate, Damage done: 1 | Player: Ringo [76561198272441468]
+[25/09/2021-17:24:11]	[DESTROYED]	[25/09/2021-17:24:11]	A target was destroyed!	 | HDSN_BreachingCharge, Position: <4273.626465, 250.057388, 4829.500977>, Target: Fence_Gate | Player: Ringo [76561198272441468]

@@ -1,0 +1,26 @@
+2021-10-25 @ 15-29-55:  [AirdropPlane] Aircraft created on 2021-10-25 @ 15-29-55
+2021-10-25 @ 15-29-55:  [InitializeAircraft] Aircraft Initialized: Myshkino @ 2036/7491 (true)
+2021-10-25 @ 15-30-01:  [EOnSpawnZombies] Zombie Spawned [1] ZmbM_HunterOld_Summer @ <2035.170654, 287.456512, 7506.310547> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 15-30-08:  [EOnSpawnZombies] Zombie Spawned [2] ZmbM_MotobikerFat_Black @ <2020.559082, 284.251068, 7502.376953> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 15-30-15:  [EOnSpawnZombies] Zombie Spawned [3] ZmbF_MilkMaidOld_Green @ <2012.174438, 287.944244, 7533.166016> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 15-30-21:  [EOnSpawnZombies] Zombie Spawned [4] ZmbM_HunterOld_Autumn @ <2008.491211, 286.184021, 7525.843750> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 15-30-28:  [EOnSpawnZombies] Zombie Spawned [5] ZmbM_HunterOld_Autumn @ <2037.510376, 281.478485, 7476.346191> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 15-30-35:  [EOnSpawnZombies] Zombie Spawned [6] ZmbM_VillagerOld_Blue @ <2034.399536, 288.951538, 7513.147461> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 15-30-41:  [EOnSpawnZombies] Spawn failed for zombie [7] 'ZmbM_SurvivorDean_Grey', it does not exist in DayZ!
+2021-10-25 @ 15-30-48:  [EOnSpawnZombies] Zombie Spawned [8] ZmbM_HermitSkinny_Green @ <2011.677246, 280.829895, 7490.993164> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 15-30-55:  [EOnSpawnZombies] Zombie Spawned [9] ZmbF_MilkMaidOld_Grey @ <2008.622803, 276.362823, 7470.091309> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 15-31-01:  [EOnSpawnZombies] Zombie Spawned [10] ZmbF_VillagerOld_White @ <2000.469116, 279.180115, 7491.276367> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 15-31-08:  [EOnSpawnZombies] Zombie Spawned [11] ZmbM_MotobikerFat_Black @ <2045.694458, 292.347443, 7516.034180> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 15-31-15:  [EOnSpawnZombies] Zombie Spawned [12] ZmbM_HermitSkinny_Red @ <2064.304443, 284.512482, 7469.316406> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 15-31-21:  [EOnSpawnZombies] Zombie Spawned [13] ZmbF_MilkMaidOld_Green @ <2051.445068, 282.429535, 7468.705566> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 15-31-28:  [EOnSpawnZombies] Zombie Spawned [14] ZmbM_FarmerFat_Brown @ <2046.603027, 289.791290, 7506.686523> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 15-31-35:  [EOnSpawnZombies] Zombie Spawned [15] ZmbM_priestPopSkinny @ <2031.030762, 279.333008, 7468.205566> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 15-31-41:  [EOnSpawnZombies] Zombie Spawned [16] ZmbM_FarmerFat_Green @ <2012.939209, 285.407532, 7514.849609> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 15-31-48:  [EOnSpawnZombies] Zombie Spawned [17] ZmbM_HikerSkinny_Yellow @ <2006.185303, 279.601288, 7488.654297> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 15-31-55:  [EOnSpawnZombies] Zombie Spawned [18] ZmbM_HermitSkinny_Green @ <2002.899292, 272.451019, 7459.660156> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 15-31-55:  [EOnBeforeDrop] The Aircraft is 1 Km from Myshkino, from the South/East (146°). @ <2600.850586, 492.774475, 6666.053223>
+2021-10-25 @ 15-32-01:  [EOnSpawnZombies] Zombie Spawned [19] ZmbM_FarmerFat_Blue @ <2043.651123, 282.751312, 7478.332520> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 15-32-07:  [EOnDrop] Drop spawned with 20 infected at <2086.213867, 422.251953, 7417.150879>.
+2021-10-25 @ 15-32-07:  [EOnDrop] Supplies have been dropped near Myshkino.
+2021-10-25 @ 15-33-18:  [EOnBeforeDelete] Aircraft despawned @ <-1000.488892, 554.279663, 11923.290039>
+2021-10-25 @ 15-33-18:  [~AirdropPlane] Aircraft destroyed.

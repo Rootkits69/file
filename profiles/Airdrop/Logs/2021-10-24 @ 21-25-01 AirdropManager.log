@@ -1,0 +1,12 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] DropZone exported not bypassed.
+[AirdropBase] Base class created & settings loaded.
+[2021-10-24 @ 22-26-37] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Chernogorks <6128.000000, 0.000000, 2497.000000>
+[EOnCallAirdrop] Drop zone offset to: <6138.558105, 2438.000000, 2481.908691>
+[EOnCallAirdrop] Aircraft spawn point: <2707.549561, 2438.000000, -1000.000000>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -2.34513° / 224.366°, Text: 'South/West (224°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Chernogorks' (2707.55/-1000), from the South/West (224°).

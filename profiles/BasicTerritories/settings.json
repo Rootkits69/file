@@ -1,0 +1,81 @@
+{
+    "ConfigVersion": "2",
+    "WhiteList": [
+        "Trap",
+        "Paper",
+        "Fireplace",
+        "LandMineTrap",
+        "BearTrap",
+        "HDSN_BreachingCharge",
+        "HDSN_BreachingChargeHeavy",
+        "RaidSaw"
+
+    ],
+    "ServerAdmins": [
+        "UYRRa-F5_-MtkOHub98pENKglKsLALLRB6hjWAKvLGc",
+        "76561199068832255"
+    ],
+    "TentRadius": 6.0,
+    "TentCESpawnLifeTime": 5600.0,
+    "BuildBonusSledgeDamage": 0,
+    "RequireTerritory": 0,
+    "PublicPermissions": 280,
+    "MemberPermissions": 446,
+    "Notifications": 0,
+    "NoBuildZones": [
+        {
+            "Name": "",
+            "X": 0,
+            "Z": 0,
+            "R": 0,
+            "DrawOnMap": 0
+        },
+        {
+            "Name": "",
+            "X": 0,
+            "Z": 0,
+            "R": 0,
+            "DrawOnMap": 0
+        }
+    ],
+    "NoBuildZoneMessage": " You can't build here, you are trying to build in a designated no build zone",
+    "TerritoryConflictMessage": " Sorry you can't build a territory this close to another territory",
+    "WithinTerritoryWarning": " Sorry you can't build this close to an enemy territory",
+    "DeSpawnWarningMessage": " You are building outside a territory, $ITEMNAME$ will despawn in $LIFETIME$ without a Territory",
+    "BuildPartWarningMessage": " Sorry, you don't have permissions to build in this area.",
+    "DismantleWarningMessage": " Sorry, you can't dismantle anything this close to a raised flag",
+    "LowerFlagWarningMessage": " Sorry, you do not have permissions to lower the flag in this territory",
+    "TerritoryRequiredWarningMessage": " Sorry, you are required to build a territory to be able to build",
+    "FlagRefreshFrequency": 259200,
+    "KitLifeTimes": {
+        "watchtowerkit": 432000,
+        "fencekit": 432000,
+        "bbp_": 432000,
+        "msp_": 432000,
+
+        "Chopper_Step_Ladder_2Kit": 432000,
+        "Chopper_PostKit": 432000,
+        "Chopper_Post_HalfKit": 432000,
+        "Chopper_RoofKit": 432000,
+        "Chopper_FloorKit": 432000,
+        "Chopper_StaircaseKit": 432000,
+        "Chopper_WallKit": 432000,
+        "Chopper_Wall_HalfKit": 432000,
+        "Chopper_DoorKit": 432000,
+        "Chopper_WindowKit": 432000,
+        "Chopper_GateKit": 432000,
+
+        "Chopper_Step_Ladder_2": 432000,
+        "ChopperPost2": 432000,
+        "ChopperPostHalf": 432000,
+        "ChopperRoof2": 432000,
+        "ChopperFloor3": 432000,
+        "ChopperFloor4": 432000,
+        "ChopperStaircase": 432000,
+        "ChopperWall3": 432000,
+        "ChopperWallHalf": 432000,
+        "ChopperDoor2": 432000,
+        "ChopperWindow": 432000,
+        "ChopperGate": 432000
+    }
+}

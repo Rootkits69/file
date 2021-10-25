@@ -1,0 +1,18 @@
+[COT 2021-10-01 22:14:11] 76561199068832255: Entered the Free Camera
+[COT 2021-10-01 22:14:18] 76561199068832255: Left the Free Camera
+[COT 2021-10-01 22:14:22] 76561199068832255: Entered the Free Camera
+[COT 2021-10-01 22:14:25] 76561199068832255: Left the Free Camera
+[COT 2021-10-01 22:37:29] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-01 22:37:34] 76561199068832255: ESP target=Fence:030154 position=<13288.686523, 70.449783, 12118.278320> action=delete
+[COT 2021-10-01 22:37:48] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-01 22:37:49] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-01 22:37:52] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-01 22:38:14] 76561199068832255: Spawned Entity Fence Kit (FenceKit<3eff210>, -1, 200) at <13288.363281, 70.489708, 12122.035156>
+[COT 2021-10-01 22:39:10] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-01 22:39:14] 76561199068832255: ESP target=Fence<e6242ac0> action=built part=base required_materials=false
+[COT 2021-10-01 22:39:16] 76561199068832255: ESP target=Fence<e6242ac0> action=built part=wall_base_down required_materials=false
+[COT 2021-10-01 22:39:18] 76561199068832255: ESP target=Fence<e6242ac0> action=built part=wall_wood_down required_materials=false
+[COT 2021-10-01 22:39:20] 76561199068832255: ESP target=Fence<e6242ac0> action=built part=wall_base_up required_materials=false
+[COT 2021-10-01 22:39:21] 76561199068832255: ESP target=Fence<e6242ac0> action=built part=wall_wood_up required_materials=false
+[COT 2021-10-01 22:39:26] 76561199068832255: ESP target=Fence<e6242ac0> action=built part=wall_gate required_materials=false
+[COT 2021-10-01 22:39:33] 76561199068832255: ESP: Clearing ESP

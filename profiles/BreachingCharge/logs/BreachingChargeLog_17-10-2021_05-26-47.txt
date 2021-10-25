@@ -1,0 +1,5 @@
+[17/10/2021-09:06:24]	[PLACED]	[17/10/2021-09:06:24]	A charge has been placed!	 | HDSN_BreachingCharge, Position: <12903.793945, 8.420470, 6270.323730>, Target: MoreDoorSmallMetal | Player: Clark524 [76561199131805143]
+[17/10/2021-09:06:30]	[ARMED]		[17/10/2021-09:06:30]	A charge has been armed!	 | HDSN_BreachingCharge, Position: <12904.750977, 8.689457, 6268.889648>, Target: MoreDoorSmallMetal | Player: Clark524 [76561199131805143]
+[17/10/2021-09:16:30]	[EXPLODED]	[17/10/2021-09:16:30]	A charge has exploded!		 | HDSN_BreachingCharge, Position: <12904.750977, 8.689457, 6268.889648>, Target: MoreDoorSmallMetal, Damage done: 1 | Player: Clark524 [76561199131805143]
+[17/10/2021-09:18:10]	[PLACED]	[17/10/2021-09:18:10]	A charge has been placed!	 | HDSN_BreachingCharge, Position: <12903.205078, 8.414297, 6269.593750>, Target: MoreDoorSmallMetal | Player: Clark524 [76561199131805143]
+[17/10/2021-09:18:12]	[ARMED]		[17/10/2021-09:18:12]	A charge has been armed!	 | HDSN_BreachingCharge, Position: <12904.617188, 8.580298, 6268.822754>, Target: MoreDoorSmallMetal | Player: Clark524 [76561199131805143]

@@ -1,0 +1,141 @@
+[COT 2021-10-12 00:29:20] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-12 00:29:26] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-12 00:29:30] 76561199068832255: ESP target=Fence<ac8f930> action=built part=wall_base_down required_materials=false
+[COT 2021-10-12 00:29:31] 76561199068832255: ESP target=Fence<ac8f930> action=built part=wall_wood_down required_materials=false
+[COT 2021-10-12 00:29:32] 76561199068832255: ESP target=Fence<ac8f930> action=built part=wall_base_up required_materials=false
+[COT 2021-10-12 00:29:33] 76561199068832255: ESP target=Fence<ac8f930> action=built part=wall_wood_up required_materials=false
+[COT 2021-10-12 00:29:38] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-12 00:35:28] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-12 00:35:30] 76561199068832255: ESP target=Fence<9d7ce8f0> action=built part=base required_materials=false
+[COT 2021-10-12 00:51:16] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-12 00:51:19] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-12 00:51:25] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-12 00:51:26] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-12 00:51:45] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-12 00:51:45] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-12 00:51:53] 76561199068832255: ESP target=ChopperWall3<b97f8710> action=built part=simple_wall required_materials=false
+[COT 2021-10-12 00:52:05] 76561199068832255: ESP target=ChopperWall3<e97257d0> action=built part=simple_wall required_materials=false
+[COT 2021-10-12 00:52:09] 76561199068832255: ESP target=ChopperWall3<e971eb10> action=built part=simple_wall required_materials=false
+[COT 2021-10-12 00:52:44] 76561199068832255: ESP target=ChopperFloor4<ba1dd080> action=built part=simple_floor required_materials=false
+[COT 2021-10-12 00:52:49] 76561199068832255: ESP target=ChopperWall3<e9720f50> action=built part=simple_wall required_materials=false
+[COT 2021-10-12 00:52:53] 76561199068832255: ESP target=ChopperWall3<e4d524a0> action=built part=simple_wall required_materials=false
+[COT 2021-10-12 00:52:57] 76561199068832255: ESP target=ChopperWall3<a0131fd0> action=built part=simple_wall required_materials=false
+[COT 2021-10-12 00:53:00] 76561199068832255: ESP target=ChopperFloor4<cec631f0> action=built part=simple_floor required_materials=false
+[COT 2021-10-12 00:53:04] 76561199068832255: ESP target=ChopperFloor4<d79eb210> action=built part=simple_floor required_materials=false
+[COT 2021-10-12 00:53:07] 76561199068832255: ESP target=ChopperWall3<9d6c5650> action=built part=simple_wall required_materials=false
+[COT 2021-10-12 00:53:10] 76561199068832255: ESP target=ChopperPost2<e4d52db0> action=built part=simple_pillar required_materials=false
+[COT 2021-10-12 00:53:14] 76561199068832255: ESP target=ChopperPost2<e9722170> action=built part=simple_pillar required_materials=false
+[COT 2021-10-12 00:53:18] 76561199068832255: ESP target=ChopperPost2<e9719980> action=built part=simple_pillar required_materials=false
+[COT 2021-10-12 00:53:21] 76561199068832255: ESP target=ChopperPost2<b97f50b0> action=built part=simple_pillar required_materials=false
+[COT 2021-10-12 00:53:25] 76561199068832255: ESP target=ChopperStaircase<d79f7970> action=built part=simple_staircase required_materials=false
+[COT 2021-10-12 00:53:33] 76561199068832255: ESP target=ChopperWall3<e9719070> action=built part=simple_wall required_materials=false
+[COT 2021-10-12 00:53:47] 76561199068832255: ESP target=ChopperWall3<e4d551f0> action=built part=simple_wall required_materials=false
+[COT 2021-10-12 00:53:53] 76561199068832255: ESP target=ChopperWall3<a012e970> action=built part=simple_wall required_materials=false
+[COT 2021-10-12 00:54:04] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-12 00:54:13] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-12 00:54:21] 76561199068832255: ESP target=ChopperFloor4<cec5e060> action=built part=simple_floor required_materials=false
+[COT 2021-10-12 00:54:23] 76561199068832255: ESP target=ChopperFloor4<990f0c90> action=built part=simple_floor required_materials=false
+[COT 2021-10-12 00:58:51] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-12 00:58:51] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-12 00:58:54] 76561199068832255: ESP target=ChopperDoor2<e9733150> action=built part=simple_door_frame required_materials=false
+[COT 2021-10-12 00:58:55] 76561199068832255: ESP target=ChopperDoor2<e9733150> action=built part=simple_door_frame required_materials=false
+[COT 2021-10-12 00:59:01] 76561199068832255: ESP target=ChopperDoor2<e9733150> action=built part=simple_door required_materials=false
+[COT 2021-10-12 00:59:04] 76561199068832255: ESP target=ChopperDoor2<e9733150> action=built part=simple_door_upgrade_metal required_materials=false
+[COT 2021-10-12 00:59:10] 76561199068832255: ESP target=ChopperWall3<96f0c090> action=built part=simple_wall required_materials=false
+[COT 2021-10-12 00:59:14] 76561199068832255: ESP target=ChopperWall3<cec64410> action=built part=simple_wall required_materials=false
+[COT 2021-10-12 00:59:19] 76561199068832255: ESP target=ChopperWall3<a0133b00> action=built part=simple_wall required_materials=false
+[COT 2021-10-12 00:59:22] 76561199068832255: ESP target=ChopperFloor4<e4d50970> action=built part=simple_floor required_materials=false
+[COT 2021-10-12 00:59:26] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-12 01:00:12] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-12 01:00:14] 76561199068832255: ESP target=ChopperPost2<ffd91970> action=built part=simple_pillar required_materials=false
+[COT 2021-10-12 01:00:35] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-12 01:02:11] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-12 01:02:28] 76561199068832255: ESP target=ChopperFloor4<ba1dd080> action=dismantle part=simple_floor
+[COT 2021-10-12 01:03:24] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-12 01:03:24] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-12 01:03:28] 76561199068832255: ESP target=ChopperWall3<d79f30f0> action=built part=simple_wall required_materials=false
+[COT 2021-10-12 01:04:04] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-12 01:04:05] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-12 01:04:11] 76561199068832255: ESP target=ChopperFloor4<9dc770a0> action=built part=simple_floor required_materials=false
+[COT 2021-10-12 01:07:42] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-12 01:07:43] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-12 01:07:45] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-12 01:07:46] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-12 01:07:53] 76561199068832255: ESP target=ChopperRoof2<cec64410> action=built part=simple_roof required_materials=false
+[COT 2021-10-12 01:07:57] 76561199068832255: ESP target=ChopperRoof2<cec64410> action=built part=simple_roof_upgrade_metal required_materials=false
+[COT 2021-10-12 01:07:59] 76561199068832255: ESP target=ChopperRoof2<cec64410> action=dismantle part=simple_roof_upgrade_metal
+[COT 2021-10-12 01:09:35] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-12 01:53:52] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-12 01:53:57] 76561199068832255: ESP target=ChopperRoof2<193b1ad0> action=built part=simple_roof required_materials=false
+[COT 2021-10-12 01:53:58] 76561199068832255: ESP target=ChopperRoof2<193b1ad0> action=built part=simple_roof required_materials=false
+[COT 2021-10-12 01:54:00] 76561199068832255: ESP target=ChopperRoof2<193b1ad0> action=built part=simple_roof required_materials=false
+[COT 2021-10-12 01:54:01] 76561199068832255: ESP target=ChopperRoof2<193b1ad0> action=built part=simple_roof required_materials=false
+[COT 2021-10-12 01:54:06] 76561199068832255: ESP target=ChopperRoof2<e9720640> action=built part=simple_roof required_materials=false
+[COT 2021-10-12 01:54:26] 76561199068832255: ESP target=ChopperRoof2<532fd870> action=built part=simple_roof required_materials=false
+[COT 2021-10-12 01:56:43] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-12 01:56:46] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-12 01:56:50] 76561199068832255: ESP target=ChopperStaircase<26fcfce0> action=built part=simple_staircase required_materials=false
+[COT 2021-10-12 01:56:59] 76561199068832255: ESP target=ChopperRoof2<1938d6d0> action=built part=simple_roof required_materials=false
+[COT 2021-10-12 02:02:55] 76561199068832255: ESP target=Chopper_FloorKit:023682 position=<6478.666504, 361.774353, 8442.871094> action=delete
+[COT 2021-10-12 02:04:12] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-12 02:04:12] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-12 02:04:17] 76561199068832255: ESP target=ChopperWindow<1ed523e0> action=built part=simple_window_frame required_materials=false
+[COT 2021-10-12 02:04:19] 76561199068832255: ESP target=ChopperWindow<1ed523e0> action=built part=simple_window_frame required_materials=false
+[COT 2021-10-12 02:04:20] 76561199068832255: ESP target=ChopperWindow<1ed523e0> action=built part=simple_window_frame required_materials=false
+[COT 2021-10-12 02:04:28] 76561199068832255: ESP target=ChopperWindow<1ed523e0> action=built part=simple_window required_materials=false
+[COT 2021-10-12 02:04:33] 76561199068832255: ESP target=ChopperWindow<1938b290> action=built part=simple_window_frame required_materials=false
+[COT 2021-10-12 02:04:35] 76561199068832255: ESP target=ChopperWindow<1938b290> action=built part=simple_window required_materials=false
+[COT 2021-10-12 02:04:40] 76561199068832255: ESP target=ChopperWindow<26fdcd50> action=built part=simple_window_frame required_materials=false
+[COT 2021-10-12 02:04:43] 76561199068832255: ESP target=ChopperWindow<26fdcd50> action=built part=simple_window_upgrade_bars required_materials=false
+[COT 2021-10-12 02:04:46] 76561199068832255: ESP target=ChopperWindow<26fdcd50> action=dismantle part=simple_window_upgrade_bars
+[COT 2021-10-12 02:04:48] 76561199068832255: ESP target=ChopperWindow<26fdcd50> action=built part=simple_window required_materials=false
+[COT 2021-10-12 02:04:54] 76561199068832255: ESP target=ChopperFloor4<9d6cf970> action=built part=simple_floor required_materials=false
+[COT 2021-10-12 02:04:58] 76561199068832255: ESP target=ChopperFloor4<26fccf90> action=built part=simple_floor required_materials=false
+[COT 2021-10-12 02:05:02] 76561199068832255: ESP target=ChopperWindow<1ed379f0> action=built part=simple_window_frame required_materials=false
+[COT 2021-10-12 02:05:04] 76561199068832255: ESP target=ChopperWindow<1ed379f0> action=built part=simple_window required_materials=false
+[COT 2021-10-12 02:05:10] 76561199068832255: ESP target=ChopperWindow<1ed401e0> action=built part=simple_window_frame required_materials=false
+[COT 2021-10-12 02:05:11] 76561199068832255: ESP target=ChopperWindow<1ed401e0> action=built part=simple_window required_materials=false
+[COT 2021-10-12 02:05:16] 76561199068832255: ESP target=ChopperFloor4<26fe03b0> action=built part=simple_floor required_materials=false
+[COT 2021-10-12 02:05:22] 76561199068832255: ESP target=ChopperWindow<26fc74f0> action=built part=simple_window_frame required_materials=false
+[COT 2021-10-12 02:05:23] 76561199068832255: ESP target=ChopperWindow<26fc74f0> action=built part=simple_window required_materials=false
+[COT 2021-10-12 02:05:27] 76561199068832255: ESP target=ChopperWindow<26fcc680> action=built part=simple_window_frame required_materials=false
+[COT 2021-10-12 02:05:29] 76561199068832255: ESP target=ChopperWindow<26fcc680> action=built part=simple_window required_materials=false
+[COT 2021-10-12 02:05:35] 76561199068832255: ESP target=ChopperWindow<9d6d6f40> action=built part=simple_window_frame required_materials=false
+[COT 2021-10-12 02:05:37] 76561199068832255: ESP target=ChopperWindow<9d6d6f40> action=built part=simple_window required_materials=false
+[COT 2021-10-12 02:05:41] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-12 03:03:15] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-12 03:03:24] 76561199068832255: ESP target=ChopperFloor4<1c5047d0> action=built part=simple_floor required_materials=false
+[COT 2021-10-12 03:03:25] 76561199068832255: ESP target=ChopperFloor4<1c5047d0> action=built part=simple_floor required_materials=false
+[COT 2021-10-12 03:03:26] 76561199068832255: ESP target=ChopperFloor4<1c5047d0> action=built part=simple_floor required_materials=false
+[COT 2021-10-12 03:03:27] 76561199068832255: ESP target=ChopperFloor4<1c5047d0> action=built part=simple_floor required_materials=false
+[COT 2021-10-12 03:03:28] 76561199068832255: ESP target=ChopperFloor4<1c5047d0> action=built part=simple_floor required_materials=false
+[COT 2021-10-12 03:03:28] 76561199068832255: ESP target=ChopperFloor4<1c5047d0> action=built part=simple_floor required_materials=false
+[COT 2021-10-12 03:03:28] 76561199068832255: ESP target=ChopperFloor4<1c5047d0> action=built part=simple_floor required_materials=false
+[COT 2021-10-12 03:03:28] 76561199068832255: ESP target=ChopperFloor4<1c5047d0> action=built part=simple_floor required_materials=false
+[COT 2021-10-12 03:03:34] 76561199068832255: ESP target=ChopperFloor4<e971bdc0> action=built part=simple_floor required_materials=false
+[COT 2021-10-12 03:03:48] 76561199068832255: ESP target=ChopperFloor4<1938f200> action=built part=simple_floor required_materials=false
+[COT 2021-10-12 03:03:54] 76561199068832255: ESP target=ChopperStaircase<1ed4f690> action=built part=simple_staircase required_materials=false
+[COT 2021-10-12 03:05:44] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-12 03:09:07] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-12 03:09:22] 76561199068832255: ESP target=Fence<1228a2e0> action=dismantle part=wall_base_down
+[COT 2021-10-12 03:09:24] 76561199068832255: ESP target=Fence<1228a2e0> action=built part=wall_base_down required_materials=false
+[COT 2021-10-12 03:09:40] 76561199068832255: ESP target=Fence:027811 position=<3587.151123, 6.000011, 2195.503174> action=delete
+[COT 2021-10-12 03:09:55] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-12 03:11:08] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-12 03:11:16] 76561199068832255: ESP target=Fence<122a0450> action=built part=wall_base_down required_materials=false
+[COT 2021-10-12 03:11:17] 76561199068832255: ESP target=Fence<122a0450> action=built part=wall_wood_down required_materials=false
+[COT 2021-10-12 03:11:20] 76561199068832255: ESP target=Fence<122a0450> action=built part=wall_base_up required_materials=false
+[COT 2021-10-12 03:11:21] 76561199068832255: ESP target=Fence<122a0450> action=built part=wall_wood_up required_materials=false
+[COT 2021-10-12 03:11:31] 76561199068832255: ESP target=Fence<122a0450> action=built part=wall_gate required_materials=false
+[COT 2021-10-12 03:11:52] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-12 03:17:23] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-12 03:17:33] 76561199068832255: ESP target=ChopperGate<aac3ce90> action=built part=simple_gate required_materials=false
+[COT 2021-10-12 03:17:35] 76561199068832255: ESP target=ChopperGate<aac3ce90> action=built part=simple_gate_upgrade_metal required_materials=false
+[COT 2021-10-12 03:17:38] 76561199068832255: ESP target=ChopperGate<aac3ce90> action=built part=simple_gate_upgrade_logs required_materials=false
+[COT 2021-10-12 03:17:44] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-12 03:18:47] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-12 03:19:19] 76561199068832255: ESP target=ChopperWindow<26fd4e70> action=built part=simple_window required_materials=false
+[COT 2021-10-12 03:19:22] 76561199068832255: ESP target=ChopperWindow<26fd4e70> action=built part=simple_window_frame_upgrade_metal required_materials=false
+[COT 2021-10-12 03:19:25] 76561199068832255: ESP target=ChopperWindow<26fd4e70> action=built part=simple_window_upgrade_metal required_materials=false
+[COT 2021-10-12 03:19:26] 76561199068832255: ESP target=ChopperWindow<26fd4e70> action=built part=simple_window_frame_upgrade_logs required_materials=false
+[COT 2021-10-12 03:19:37] 76561199068832255: ESP: Clearing ESP

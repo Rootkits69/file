@@ -1,0 +1,3 @@
+[25/08/2021-20:22:13]	[PLACED]	[25/08/2021-20:22:13]	A charge has been placed!	 | HDSN_BreachingChargeHeavy, Position: <13748.250977, 6.467085, 3726.961670>, Target: MoreDoorSmall | Player: Imposible Burger [76561199068832255]
+[25/08/2021-20:25:51]	[ARMED]		[25/08/2021-20:25:51]	A charge has been armed!	 | HDSN_BreachingChargeHeavy, Position: <13748.287109, 7.049498, 3725.947998>, Target: MoreDoorSmall | Player: Imposible Burger [76561199068832255]
+[25/08/2021-20:26:20]	[DEFUSED]	[25/08/2021-20:26:20]	A charge has been defused!	 | HDSN_BreachingChargeHeavy, Position: <13748.287109, 7.049498, 3725.947998>, Target: MoreDoorSmall | Defusing Player: PussinaBush [76561198086263481] | Player: Imposible Burger [76561199068832255]

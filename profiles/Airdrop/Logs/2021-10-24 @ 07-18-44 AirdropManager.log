@@ -1,0 +1,12 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] DropZone exported not bypassed.
+[AirdropBase] Base class created & settings loaded.
+[2021-10-24 @ 08-20-21] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Skalisty Island <13452.000000, 0.000000, 3112.000000>
+[EOnCallAirdrop] Drop zone offset to: <13388.508789, 2438.000000, 3151.183350>
+[EOnCallAirdrop] Aircraft spawn point: <-1000.000000, 2438.000000, 9084.768555>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 2.74969° / 292.454°, Text: 'West (292°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Skalisty Island' (-1000/9084.77), from the West (292°).

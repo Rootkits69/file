@@ -1,0 +1,26 @@
+2021-10-23 @ 08-05-16:  [AirdropPlane] Aircraft created on 2021-10-23 @ 08-05-16
+2021-10-23 @ 08-05-16:  [InitializeAircraft] Aircraft Initialized: Balota @ 5043/2505 (true)
+2021-10-23 @ 08-05-26:  [EOnSpawnZombies] Zombie Spawned [1] ZmbM_PatrolNormal_Flat @ <4997.633789, 10.000000, 2509.227539> ... Lifespan:  Set to 40 minutes.
+2021-10-23 @ 08-05-36:  [EOnSpawnZombies] Zombie Spawned [2] ZmbM_PatrolNormal_PautRev @ <5047.325195, 9.654493, 2482.435303> ... Lifespan:  Set to 40 minutes.
+2021-10-23 @ 08-05-45:  [EOnSpawnZombies] Zombie Spawned [3] ZmbM_PatrolNormal_PautRev @ <5009.873535, 10.326834, 2529.634033> ... Lifespan:  Set to 40 minutes.
+2021-10-23 @ 08-05-55:  [EOnSpawnZombies] Zombie Spawned [4] ZmbM_PatrolNormal_Flat @ <5029.480957, 9.681169, 2484.127686> ... Lifespan:  Set to 40 minutes.
+2021-10-23 @ 08-06-05:  [EOnSpawnZombies] Zombie Spawned [5] ZmbM_PatrolNormal_Summer @ <5085.548828, 8.486880, 2518.731689> ... Lifespan:  Set to 40 minutes.
+2021-10-23 @ 08-06-14:  [EOnSpawnZombies] Zombie Spawned [6] ZmbM_PatrolNormal_Flat @ <5047.705078, 9.647957, 2530.686279> ... Lifespan:  Set to 40 minutes.
+2021-10-23 @ 08-06-24:  [EOnSpawnZombies] Zombie Spawned [7] ZmbM_PatrolNormal_Flat @ <5037.142578, 10.200237, 2472.694824> ... Lifespan:  Set to 40 minutes.
+2021-10-23 @ 08-06-34:  [EOnSpawnZombies] Zombie Spawned [8] ZmbM_SoldierNormal @ <5081.271484, 9.025308, 2501.036621> ... Lifespan:  Set to 40 minutes.
+2021-10-23 @ 08-06-43:  [EOnSpawnZombies] Zombie Spawned [9] ZmbM_PatrolNormal_Summer @ <5033.067871, 10.000000, 2457.653809> ... Lifespan:  Set to 40 minutes.
+2021-10-23 @ 08-06-53:  [EOnSpawnZombies] Zombie Spawned [10] ZmbM_PatrolNormal_PautRev @ <5057.056641, 9.513480, 2472.254639> ... Lifespan:  Set to 40 minutes.
+2021-10-23 @ 08-07-03:  [EOnSpawnZombies] Zombie Spawned [11] ZmbM_PatrolNormal_Autumn @ <5055.836426, 9.295225, 2489.022461> ... Lifespan:  Set to 40 minutes.
+2021-10-23 @ 08-07-12:  [EOnSpawnZombies] Zombie Spawned [12] ZmbM_PatrolNormal_PautRev @ <5019.648926, 10.000000, 2479.644043> ... Lifespan:  Set to 40 minutes.
+2021-10-23 @ 08-07-22:  [EOnSpawnZombies] Zombie Spawned [13] ZmbM_PatrolNormal_Autumn @ <5085.286133, 8.520632, 2521.461182> ... Lifespan:  Set to 40 minutes.
+2021-10-23 @ 08-07-32:  [EOnSpawnZombies] Zombie Spawned [14] ZmbM_PatrolNormal_Summer @ <5081.823730, 9.328789, 2485.669922> ... Lifespan:  Set to 40 minutes.
+2021-10-23 @ 08-07-41:  [EOnSpawnZombies] Zombie Spawned [15] ZmbM_SoldierNormal @ <5050.861816, 9.226206, 2518.290283> ... Lifespan:  Set to 40 minutes.
+2021-10-23 @ 08-07-51:  [EOnSpawnZombies] Zombie Spawned [16] ZmbM_PatrolNormal_Autumn @ <5025.241211, 10.456404, 2536.204834> ... Lifespan:  Set to 40 minutes.
+2021-10-23 @ 08-08-01:  [EOnSpawnZombies] Zombie Spawned [17] ZmbM_PatrolNormal_Autumn @ <5080.145020, 9.149437, 2487.202637> ... Lifespan:  Set to 40 minutes.
+2021-10-23 @ 08-08-10:  [EOnSpawnZombies] Zombie Spawned [18] ZmbM_PatrolNormal_PautRev @ <5033.567871, 10.375095, 2499.051270> ... Lifespan:  Set to 40 minutes.
+2021-10-23 @ 08-08-17:  [EOnBeforeDrop] The Aircraft is 1 Km from Balota, from the North/East (049°). @ <5798.997070, 240.498779, 3157.706299>
+2021-10-23 @ 08-08-20:  [EOnSpawnZombies] Zombie Spawned [19] ZmbM_PatrolNormal_Summer @ <5060.771484, 9.157812, 2540.477295> ... Lifespan:  Set to 40 minutes.
+2021-10-23 @ 08-08-29:  [EOnDrop] Drop spawned with 20 infected at <5096.575195, 168.848907, 2554.307861>.
+2021-10-23 @ 08-08-29:  [EOnDrop] Supplies have been dropped near Balota.
+2021-10-23 @ 08-09-39:  [EOnBeforeDelete] Aircraft despawned @ <958.136841, 152.000610, -1000.617554>
+2021-10-23 @ 08-09-39:  [~AirdropPlane] Aircraft destroyed.

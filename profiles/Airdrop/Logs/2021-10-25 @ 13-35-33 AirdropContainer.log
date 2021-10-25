@@ -1,0 +1,26 @@
+2021-10-25 @ 13-35-33:  [InitializeContainer] Winds: Vector <10.046947, 0.000000, 8.183817>, Speed 12.9582mps, Strength 0.1
+2021-10-25 @ 13-35-33:  [InitializeContainer] Parachute created on @ <9301.335938, 152.170242, 2165.841064>
+2021-10-25 @ 13-37-40:  [AirdropContainerFall] Airdrop Container Touchdown @ <9301.109375, 25.370388, 2166.144775>
+2021-10-25 @ 13-37-40:  [ADU_RemoveParachute] Parachute removed.
+2021-10-25 @ 13-37-40:  [ADU_RepositionContainer] Container repositioned.
+2021-10-25 @ 13-37-40:  [ADU_SpawnItems] Drop Type 'Building Supplies', Container: 'AirdropContainer', Mode/Quantity/Iems: Random/15/203, Flare:  10%
+2021-10-25 @ 13-37-40:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-10-25 @ 13-37-40:  [ADU_SpawnItems] Loot Spawned [1] NailBox @ <9298.890625, 22.134991, 2165.381104> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 13-37-40:  [ADU_SpawnItems] Loot Spawned [2] Msp_DoubleGunRack_Kit @ <9303.451172, 22.804470, 2166.914551> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 13-37-40:  [ADU_SpawnItems] Loot Spawned [3] LeatherSewingKit @ <9298.609375, 22.391914, 2166.743408> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 13-37-40:  [ADU_SpawnItems] Loot Spawned [4] CarTent @ <9299.154297, 22.199501, 2165.600830> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 13-37-40:  [ADU_SpawnItems] Loot Spawned [5] NailBox @ <9303.750000, 22.593647, 2165.742676> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 13-37-40:  [ADU_SpawnItems] Loot Spawned [6] MediumTent_Green @ <9303.101563, 22.823101, 2167.145264> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 13-37-40:  [ADU_SpawnItems] Loot Spawned [7] MetalWire @ <9302.542969, 22.539986, 2165.949463> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 13-37-40:  [ADU_SpawnItems] Loot Spawned [8] MetalPlate @ <9298.883789, 22.050350, 2164.968994> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 13-37-40:  [ADU_SpawnItems] Loot Spawned [9] Hammer @ <9302.328125, 22.686575, 2166.767090> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 13-37-40:  [ADU_SpawnItems] Loot Spawned [10] HandSaw @ <9302.753906, 22.226379, 2164.306885> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 13-37-40:  [ADU_SpawnItems] Spawn failed for item [11] 'WoodenPlanks', does not exist in DayZ!
+2021-10-25 @ 13-37-40:  [ADU_SpawnItems] Loot Spawned [12] Msp_SnowballFridge_Kit @ <9301.739258, 21.965391, 2163.438965> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 13-37-40:  [ADU_SpawnItems] Loot Spawned [13] NailBox @ <9302.281250, 22.375284, 2165.229004> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 13-37-40:  [ADU_SpawnItems] Loot Spawned [14] HDSN_Gunpowder @ <9298.611328, 22.463022, 2167.091309> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 13-37-40:  [ADU_SpawnItems] Loot Spawned [15] NailBox @ <9298.172852, 22.306263, 2166.483398> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 13-37-40:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-10-25 @ 13-37-40:  [EOnSimulate] Airdrop Container deactivated.
+2021-10-25 @ 14-02-20:  [~AirdropContainerBase] Log file closed.
+2021-10-25 @ 14-02-20:  [~AirdropContainerBase] Container Destroyed.

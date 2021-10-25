@@ -1,0 +1,12 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] DropZone exported not bypassed.
+[AirdropBase] Base class created & settings loaded.
+[2021-10-24 @ 04-18-19] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Myshkino <2036.000000, 0.000000, 7491.000000>
+[EOnCallAirdrop] Drop zone offset to: <2126.043213, 2438.000000, 7466.189453>
+[EOnCallAirdrop] Aircraft spawn point: <16360.000000, 2438.000000, 16037.350586>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 0.537949° / 59.1778°, Text: 'North/East (059°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Myshkino' (16360/16037.4), from the North/East (059°).

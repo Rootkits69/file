@@ -1,0 +1,26 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] DropZone exported not bypassed.
+[AirdropBase] Base class created & settings loaded.
+[2021-10-23 @ 12-06-32] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Stary Sobor <5823.000000, 0.000000, 7764.000000>
+[EOnCallAirdrop] Drop zone offset to: <5797.545410, 2438.000000, 7783.142090>
+[EOnCallAirdrop] Aircraft spawn point: <-1000.000000, 2438.000000, 2373.245117>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -2.47293° / 231.688°, Text: 'South/West (232°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Stary Sobor' (-1000/2373.25), from the South/West (232°).
+[2021-10-23 @ 13-07-43] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Elektrozavodsk <9371.000000, 0.000000, 2229.000000>
+[EOnCallAirdrop] Drop zone offset to: <9340.009766, 2438.000000, 2309.694580>
+[EOnCallAirdrop] Aircraft spawn point: <-1000.000000, 2438.000000, 8773.774414>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 2.57864° / 302.255°, Text: 'North/West (302°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Elektrozavodsk' (-1000/8773.77), from the North/West (302°).
+[2021-10-23 @ 14-08-54] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Chernogorks <6128.000000, 0.000000, 2497.000000>
+[EOnCallAirdrop] Drop zone offset to: <6093.280762, 2438.000000, 2496.417969>
+[EOnCallAirdrop] Aircraft spawn point: <-1000.000000, 2438.000000, 2127.417236>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -3.08979° / 267.032°, Text: 'West (267°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Chernogorks' (-1000/2127.42), from the West (267°).

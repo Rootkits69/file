@@ -1,0 +1,4 @@
+[04/10/2021-07:21:38]	[PLACED]	[04/10/2021-07:21:38]	A charge has been placed!	 | HDSN_BreachingChargeHeavy, Position: <3833.412109, 312.156952, 8913.923828>, Target: Fence_Gate_Metal | Player: [HH]Lim jahey [76561199193563732]
+[04/10/2021-07:21:58]	[ARMED]		[04/10/2021-07:21:58]	A charge has been armed!	 | HDSN_BreachingChargeHeavy, Position: <3834.885254, 312.795288, 8914.116211>, Target: Fence_Gate_Metal | Player: [HH]Lim jahey [76561199193563732]
+[04/10/2021-07:31:58]	[EXPLODED]	[04/10/2021-07:31:58]	A charge has exploded!		 | HDSN_BreachingChargeHeavy, Position: <3834.885254, 312.795288, 8914.116211>, Target: Fence_Gate_Metal, Damage done: 2 | Player: [HH]Lim jahey [76561199193563732]
+[04/10/2021-07:31:58]	[DESTROYED]	[04/10/2021-07:31:58]	A target was destroyed!	 | HDSN_BreachingChargeHeavy, Position: <3834.885254, 312.795288, 8914.116211>, Target: Fence_Gate_Metal | Player: [HH]Lim jahey [76561199193563732]

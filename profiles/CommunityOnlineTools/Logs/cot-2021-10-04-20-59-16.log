@@ -1,0 +1,46 @@
+[COT 2021-10-04 23:05:57] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-04 23:06:02] 76561199068832255: ESP target=Fence<8975fcd0> action=built part=wall_base_down required_materials=false
+[COT 2021-10-04 23:06:04] 76561199068832255: ESP target=Fence<8975fcd0> action=built part=wall_wood_down required_materials=false
+[COT 2021-10-04 23:06:06] 76561199068832255: ESP target=Fence<8975fcd0> action=built part=wall_base_up required_materials=false
+[COT 2021-10-04 23:06:07] 76561199068832255: ESP target=Fence<8975fcd0> action=built part=wall_wood_up required_materials=false
+[COT 2021-10-04 23:06:12] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-04 23:07:05] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-04 23:07:09] 76561199068832255: ESP target=Fence<8975fcd0> action=dismantle part=wall_wood_down
+[COT 2021-10-04 23:07:14] 76561199068832255: ESP target=Fence<8975fcd0> action=dismantle part=wall_wood_up
+[COT 2021-10-04 23:07:20] 76561199068832255: ESP target=Fence<8975fcd0> action=dismantle part=wall_base_down
+[COT 2021-10-04 23:07:24] 76561199068832255: ESP target=Fence<8975fcd0> action=dismantle part=wall_base_up
+[COT 2021-10-04 23:07:28] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-04 23:07:29] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-04 23:07:30] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-04 23:21:47] 76561199068832255: Entered the Free Camera
+[COT 2021-10-04 23:21:50] 76561199068832255: Left the Free Camera
+[COT 2021-10-04 23:33:24] 76561199068832255: Entered the Free Camera
+[COT 2021-10-04 23:33:31] 76561199068832255: Left the Free Camera
+[COT 2021-10-04 23:33:41] 76561199068832255: ESP: Viewing ESP
+[COT 2021-10-04 23:33:45] 76561199068832255: ESP target=Fence<89756bd0> action=built part=wall_base_down required_materials=false
+[COT 2021-10-04 23:33:46] 76561199068832255: ESP target=Fence<89756bd0> action=built part=wall_base_down required_materials=false
+[COT 2021-10-04 23:33:47] 76561199068832255: ESP target=Fence<89756bd0> action=built part=wall_base_down required_materials=false
+[COT 2021-10-04 23:33:48] 76561199068832255: ESP target=Fence<89756bd0> action=built part=wall_base_down required_materials=false
+[COT 2021-10-04 23:33:50] 76561199068832255: ESP target=Fence<89756bd0> action=built part=wall_wood_down required_materials=false
+[COT 2021-10-04 23:33:51] 76561199068832255: ESP target=Fence<89756bd0> action=built part=wall_base_up required_materials=false
+[COT 2021-10-04 23:33:52] 76561199068832255: ESP target=Fence<89756bd0> action=built part=wall_wood_up required_materials=false
+[COT 2021-10-04 23:34:09] 76561199068832255: ESP target=Fence<82a12ea0> action=built part=wall_base_down required_materials=false
+[COT 2021-10-04 23:34:10] 76561199068832255: ESP target=Fence<82a12ea0> action=built part=wall_wood_down required_materials=false
+[COT 2021-10-04 23:34:11] 76561199068832255: ESP target=Fence<82a12ea0> action=built part=wall_gate required_materials=false
+[COT 2021-10-04 23:34:14] 76561199068832255: ESP target=Fence<82a12ea0> action=dismantle part=wall_gate
+[COT 2021-10-04 23:34:22] 76561199068832255: ESP target=Fence<8cb40790> action=built part=wall_base_down required_materials=false
+[COT 2021-10-04 23:34:23] 76561199068832255: ESP target=Fence<8cb40790> action=built part=wall_wood_down required_materials=false
+[COT 2021-10-04 23:34:27] 76561199068832255: ESP target=Fence<8cb40790> action=built part=wall_base_up required_materials=false
+[COT 2021-10-04 23:34:28] 76561199068832255: ESP target=Fence<8cb40790> action=built part=wall_wood_up required_materials=false
+[COT 2021-10-04 23:34:54] 76561199068832255: ESP target=Fence<8975a230> action=built part=wall_base_down required_materials=false
+[COT 2021-10-04 23:34:55] 76561199068832255: ESP target=Fence<8975a230> action=built part=wall_wood_down required_materials=false
+[COT 2021-10-04 23:34:56] 76561199068832255: ESP target=Fence<8975a230> action=built part=wall_base_up required_materials=false
+[COT 2021-10-04 23:34:57] 76561199068832255: ESP target=Fence<8975a230> action=built part=wall_wood_up required_materials=false
+[COT 2021-10-04 23:35:07] 76561199068832255: ESP target=Fence<82a152e0> action=built part=wall_base_down required_materials=false
+[COT 2021-10-04 23:35:09] 76561199068832255: ESP target=Fence<82a152e0> action=built part=wall_wood_down required_materials=false
+[COT 2021-10-04 23:35:11] 76561199068832255: ESP target=Fence<82a152e0> action=built part=wall_base_up required_materials=false
+[COT 2021-10-04 23:35:12] 76561199068832255: ESP target=Fence<82a152e0> action=built part=wall_wood_up required_materials=false
+[COT 2021-10-04 23:35:15] 76561199068832255: ESP target=Fence<82a152e0> action=built part=wall_gate required_materials=false
+[COT 2021-10-04 23:35:18] 76561199068832255: ESP: Clearing ESP
+[COT 2021-10-05 00:38:22] 76561199068832255: Healed [guid=TlVPrcYBpzBCFNaj9i827FG3erag6jKZ1JL2yI3XhHc=]
+[COT 2021-10-05 00:38:38] 76561199068832255: Healed [guid=TlVPrcYBpzBCFNaj9i827FG3erag6jKZ1JL2yI3XhHc=]

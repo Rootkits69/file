@@ -1,0 +1,21 @@
+---------------------------------------------
+Log C:\OmegaManager\servers\0\profiles\crash_2021-10-25_15-09-38.log started at 25.10. 15:09:49
+
+
+
+------------------------------------
+WIN-0UBCQ9OB5GD, 25.10 2021 15:09:49
+
+JSON ERROR:
+Missing a name for object member.
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:67
+scripts/3_Game/tools\jsonfileloader.c:29
+BasicMap/scripts/3_Game/basicmapcontroller.c:168
+BasicMap/scripts/3_Game/basicmapcontroller.c:44
+BasicMap/scripts/5_Mission/mission\missionserver.c:4
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:264
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  malloc  mod @CF;@VPPAdminTools;@BuilderItems;@Code Lock;@ParadiseServerModPack;@Airdrop-Upgraded;@SimpleAutorun;@Ear-Plugs;@StaminaSettings;@Breachingcharge;@Modular Vest System;@MuchStuffPack;@Advanced Weapon Scopes;@Docs_Weapon_Pack_Standalone;@Cl0ud's Military Gear;@Simple Base;@CarCover;@Cl0ud's Winter Gear; 

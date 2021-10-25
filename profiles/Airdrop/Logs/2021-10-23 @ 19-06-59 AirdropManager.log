@@ -1,0 +1,26 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] DropZone exported not bypassed.
+[AirdropBase] Base class created & settings loaded.
+[2021-10-23 @ 20-08-34] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Novodmitrovsk <11125.000000, 0.000000, 14040.000000>
+[EOnCallAirdrop] Drop zone offset to: <11067.617188, 2438.000000, 14011.260742>
+[EOnCallAirdrop] Aircraft spawn point: <16360.000000, 2438.000000, 9307.285156>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -0.73505° / 132.115°, Text: 'South/East (132°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Novodmitrovsk' (16360/9307.29), from the South/East (132°).
+[2021-10-23 @ 21-09-42] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Krasnostav <12159.000000, 0.000000, 12583.000000>
+[EOnCallAirdrop] Drop zone offset to: <12172.071289, 2438.000000, 12639.940430>
+[EOnCallAirdrop] Aircraft spawn point: <16360.000000, 2438.000000, -649.801331>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -1.26339° / 162.387°, Text: 'South (162°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Krasnostav' (16360/-649.801), from the South (162°).
+[2021-10-23 @ 22-10-23] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Skalisty Island <13452.000000, 0.000000, 3112.000000>
+[EOnCallAirdrop] Drop zone offset to: <13443.416992, 2438.000000, 3033.280273>
+[EOnCallAirdrop] Aircraft spawn point: <-177.218536, 2438.000000, 16360.000000>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 2.37038° / 314.187°, Text: 'North/West (314°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Skalisty Island' (-177.219/16360), from the North/West (314°).

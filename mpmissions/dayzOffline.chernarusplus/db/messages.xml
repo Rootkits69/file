@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+
+<!-- Restart message -->
+<message>
+<repeat>30</repeat>
+<deadline>150</deadline>
+<shutdown>1</shutdown>
+<text>WARNING! THIS SERVER WILL RESTART IN #tmin MINUTES</text>
+</message>
+
+<message>
+<delay>10</delay>
+<repeat>15</repeat>
+<onConnect>1</onConnect>
+<text>Check our Discord at Discord.io/DayzPG</text>
+</message>
+
+</messages>

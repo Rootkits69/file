@@ -1,0 +1,26 @@
+2021-10-25 @ 18-23-00:  [AirdropPlane] Aircraft created on 2021-10-25 @ 18-23-00
+2021-10-25 @ 18-23-00:  [InitializeAircraft] Aircraft Initialized: Skalisty Island @ 13452/3112 (true)
+2021-10-25 @ 18-23-04:  [EOnSpawnZombies] Zombie Spawned [1] ZmbM_HikerSkinny_Blue @ <13458.653320, 16.847420, 3112.554932> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 18-23-08:  [EOnSpawnZombies] Spawn failed for zombie [2] 'ZmbM_SurvivorDean_Black', it does not exist in DayZ!
+2021-10-25 @ 18-23-12:  [EOnSpawnZombies] Spawn failed for zombie [3] 'ZmbM_SurvivorDean_Grey', it does not exist in DayZ!
+2021-10-25 @ 18-23-16:  [EOnSpawnZombies] Zombie Spawned [4] ZmbF_MilkMaidOld_Beige @ <13457.447266, 26.735601, 3151.213623> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 18-23-20:  [EOnSpawnZombies] Zombie Spawned [5] ZmbF_SurvivorNormal_Orange @ <13459.021484, 12.819150, 3085.351318> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 18-23-24:  [EOnSpawnZombies] Zombie Spawned [6] ZmbM_MotobikerFat_Blue @ <13464.538086, 13.871613, 3090.080078> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 18-23-27:  [EOnSpawnZombies] Zombie Spawned [7] ZmbF_SurvivorNormal_Blue @ <13453.122070, 15.851189, 3106.716797> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 18-23-31:  [EOnSpawnZombies] Zombie Spawned [8] ZmbF_HikerSkinny_Green @ <13411.840820, 14.325713, 3091.713135> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 18-23-35:  [EOnSpawnZombies] Zombie Spawned [9] ZmbM_FarmerFat_Beige @ <13446.440430, 17.200565, 3109.182129> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 18-23-39:  [EOnSpawnZombies] Zombie Spawned [10] ZmbM_HunterOld_Spring @ <13446.847656, 27.998337, 3149.440918> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 18-23-43:  [EOnSpawnZombies] Zombie Spawned [11] ZmbF_SurvivorNormal_Blue @ <13475.094727, 20.463860, 3130.506348> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 18-23-47:  [EOnSpawnZombies] Zombie Spawned [12] ZmbM_HunterOld_Autumn @ <13483.692383, 25.142704, 3146.955078> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 18-23-51:  [EOnSpawnZombies] Zombie Spawned [13] ZmbF_HikerSkinny_Blue @ <13485.571289, 16.065994, 3079.352051> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 18-23-55:  [EOnSpawnZombies] Zombie Spawned [14] ZmbF_MilkMaidOld_Beige @ <13488.487305, 17.804377, 3090.975342> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 18-23-58:  [EOnSpawnZombies] Zombie Spawned [15] ZmbF_VillagerOld_Red @ <13436.055664, 13.989787, 3095.517090> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 18-24-02:  [EOnSpawnZombies] Zombie Spawned [16] ZmbF_SurvivorNormal_Red @ <13453.906250, 15.830807, 3107.018311> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 18-24-05:  [EOnBeforeDrop] The Aircraft is 1 Km from Skalisty Island, from the South/West (227°). @ <12726.033203, 152.000610, 2425.584473>
+2021-10-25 @ 18-24-06:  [EOnSpawnZombies] Zombie Spawned [17] ZmbM_HermitSkinny_Red @ <13434.116211, 10.630404, 3082.464355> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 18-24-10:  [EOnSpawnZombies] Zombie Spawned [18] ZmbF_HikerSkinny_Green @ <13471.373047, 12.364910, 3076.050293> ... Lifespan:  Set to 40 minutes.
+2021-10-25 @ 18-24-14:  [EOnSpawnZombies] Spawn failed for zombie [19] 'ZmbM_SurvivorDean_Black', it does not exist in DayZ!
+2021-10-25 @ 18-24-17:  [EOnDrop] Drop spawned with 20 infected at <13393.083984, 142.701370, 3056.609863>.
+2021-10-25 @ 18-24-17:  [EOnDrop] Supplies have been dropped near Skalisty Island.
+2021-10-25 @ 18-25-10:  [EOnBeforeDelete] Aircraft despawned @ <16361.179688, 152.000610, 5864.407715>
+2021-10-25 @ 18-25-10:  [~AirdropPlane] Aircraft destroyed.

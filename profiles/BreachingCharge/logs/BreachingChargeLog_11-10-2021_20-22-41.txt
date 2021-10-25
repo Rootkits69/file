@@ -1,0 +1,4 @@
+[11/10/2021-22:43:44]	[PLACED]	[11/10/2021-22:43:44]	A charge has been placed!	 | HDSN_BreachingChargeHeavy, Position: <8225.284180, 113.372070, 12693.747070>, Target: Fence_Gate | Player: Glazed&Confused [76561198007338243]
+[11/10/2021-22:43:50]	[ARMED]		[11/10/2021-22:43:50]	A charge has been armed!	 | HDSN_BreachingChargeHeavy, Position: <8226.341797, 114.288406, 12693.005859>, Target: Fence_Gate | Player: Glazed&Confused [76561198007338243]
+[11/10/2021-22:48:51]	[EXPLODED]	[11/10/2021-22:48:51]	A charge has exploded!		 | HDSN_BreachingChargeHeavy, Position: <8226.341797, 114.288406, 12693.005859>, Target: Fence_Gate, Damage done: 2 | Player: Glazed&Confused [76561198007338243]
+[11/10/2021-22:48:51]	[DESTROYED]	[11/10/2021-22:48:51]	A target was destroyed!	 | HDSN_BreachingChargeHeavy, Position: <8226.341797, 114.288406, 12693.005859>, Target: Fence_Gate | Player: Glazed&Confused [76561198007338243]

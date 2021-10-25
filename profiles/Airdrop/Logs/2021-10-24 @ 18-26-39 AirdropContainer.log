@@ -1,0 +1,26 @@
+2021-10-24 @ 18-26-39:  [InitializeContainer] Winds: Vector <-9.244446, 0.000000, 2.034194>, Speed 9.46561mps, Strength 0.1
+2021-10-24 @ 18-26-39:  [InitializeContainer] Parachute created on @ <2041.170166, 453.751404, 7565.567383>
+2021-10-24 @ 18-29-10:  [AirdropContainerFall] Airdrop Container Touchdown @ <2041.134155, 302.863251, 7565.567383>
+2021-10-24 @ 18-29-10:  [ADU_RemoveParachute] Parachute removed.
+2021-10-24 @ 18-29-10:  [ADU_RepositionContainer] Container repositioned.
+2021-10-24 @ 18-29-10:  [ADU_SpawnItems] Drop Type 'Building Supplies', Container: 'AirdropContainer', Mode/Quantity/Iems: Random/15/203, Flare:  10%
+2021-10-24 @ 18-29-10:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-10-24 @ 18-29-10:  [ADU_SpawnItems] Loot Spawned [1] Screwdriver @ <2043.302856, 300.057465, 7563.955566> ... Lifespan:  Set to 60 minutes.
+2021-10-24 @ 18-29-10:  [ADU_SpawnItems] Spawn failed for item [2] 'WoodenPlanks', does not exist in DayZ!
+2021-10-24 @ 18-29-10:  [ADU_SpawnItems] Loot Spawned [3] Hammer @ <2041.697876, 300.245239, 7567.015625> ... Lifespan:  Set to 60 minutes.
+2021-10-24 @ 18-29-10:  [ADU_SpawnItems] Loot Spawned [4] Msp_Gunwall_Kit @ <2041.122925, 300.315552, 7568.203125> ... Lifespan:  Set to 60 minutes.
+2021-10-24 @ 18-29-10:  [ADU_SpawnItems] Loot Spawned [5] Screwdriver @ <2042.502197, 300.396332, 7567.153809> ... Lifespan:  Set to 60 minutes.
+2021-10-24 @ 18-29-10:  [ADU_SpawnItems] Loot Spawned [6] Hammer @ <2040.160034, 299.519867, 7563.775879> ... Lifespan:  Set to 60 minutes.
+2021-10-24 @ 18-29-10:  [ADU_SpawnItems] Loot Spawned [7] PeachesCan @ <2040.580688, 299.668274, 7564.320801> ... Lifespan:  Set to 60 minutes.
+2021-10-24 @ 18-29-10:  [ADU_SpawnItems] Loot Spawned [8] NailBox @ <2040.084961, 299.760986, 7565.502930> ... Lifespan:  Set to 60 minutes.
+2021-10-24 @ 18-29-10:  [ADU_SpawnItems] Loot Spawned [9] ElectronicRepairKit @ <2039.895630, 299.659119, 7565.023438> ... Lifespan:  Set to 60 minutes.
+2021-10-24 @ 18-29-10:  [ADU_SpawnItems] Loot Spawned [10] HDSN_Gunpowder @ <2038.942261, 299.790131, 7567.017578> ... Lifespan:  Set to 60 minutes.
+2021-10-24 @ 18-29-10:  [ADU_SpawnItems] Loot Spawned [11] Shovel @ <2038.768921, 299.499115, 7565.233398> ... Lifespan:  Set to 60 minutes.
+2021-10-24 @ 18-29-10:  [ADU_SpawnItems] Loot Spawned [12] Shovel @ <2041.530762, 300.266357, 7567.345215> ... Lifespan:  Set to 60 minutes.
+2021-10-24 @ 18-29-10:  [ADU_SpawnItems] Loot Spawned [13] MetalPlate @ <2038.876953, 299.324921, 7563.920898> ... Lifespan:  Set to 60 minutes.
+2021-10-24 @ 18-29-10:  [ADU_SpawnItems] Loot Spawned [14] SewingKit @ <2042.834473, 300.045319, 7564.392090> ... Lifespan:  Set to 60 minutes.
+2021-10-24 @ 18-29-10:  [ADU_SpawnItems] Loot Spawned [15] LeatherSewingKit @ <2042.753906, 299.938965, 7563.756348> ... Lifespan:  Set to 60 minutes.
+2021-10-24 @ 18-29-10:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-10-24 @ 18-29-10:  [EOnSimulate] Airdrop Container deactivated.
+2021-10-24 @ 19-06-39:  [~AirdropContainerBase] Log file closed.
+2021-10-24 @ 19-06-39:  [~AirdropContainerBase] Container Destroyed.

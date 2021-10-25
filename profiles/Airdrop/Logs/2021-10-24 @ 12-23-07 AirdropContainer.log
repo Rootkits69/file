@@ -1,0 +1,26 @@
+2021-10-24 @ 12-23-07:  [InitializeContainer] Winds: Vector <-1.872177, 0.000000, -0.829948>, Speed 2.04789mps, Strength 0.1
+2021-10-24 @ 12-23-07:  [InitializeContainer] Parachute created on @ <12226.383789, 287.817261, 12620.754883>
+2021-10-24 @ 12-25-32:  [AirdropContainerFall] Airdrop Container Touchdown @ <12226.383789, 142.952637, 12620.754883>
+2021-10-24 @ 12-25-32:  [ADU_RemoveParachute] Parachute removed.
+2021-10-24 @ 12-25-32:  [ADU_RepositionContainer] Container repositioned.
+2021-10-24 @ 12-25-32:  [ADU_SpawnItems] Drop Type 'Military Weapons', Container: 'AirdropContainer_Military', Mode/Quantity/Iems: Random/15/279, Flare:  10%
+2021-10-24 @ 12-25-32:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-10-24 @ 12-25-32:  [ADU_SpawnItems] Loot Spawned [1] MilitaryGear_GhillieHood_Woodland @ <12226.688477, 140.050003, 12623.190430> ... Lifespan:  Set to 60 minutes.
+2021-10-24 @ 12-25-32:  [ADU_SpawnItems] Loot Spawned [2] MilitaryGear_GhillieHood_CADPAT @ <12225.972656, 140.050003, 12618.776367> ... Lifespan:  Set to 60 minutes.
+2021-10-24 @ 12-25-32:  [ADU_SpawnItems] Spawn failed for item [3] 'Doc_G3_50rnd', does not exist in DayZ!
+2021-10-24 @ 12-25-32:  [ADU_SpawnItems] Loot Spawned [4] MilitaryGear_GhillieBushrag_CADPAT @ <12226.444336, 140.050003, 12617.836914> ... Lifespan:  Set to 60 minutes.
+2021-10-24 @ 12-25-32:  [ADU_SpawnItems] Loot Spawned [5] MilitaryGear_GhillieBushrag_Multicam @ <12227.111328, 140.050003, 12617.877930> ... Lifespan:  Set to 60 minutes.
+2021-10-24 @ 12-25-32:  [ADU_SpawnItems] Loot Spawned [6] RaidSaw @ <12228.998047, 140.050003, 12621.147461> ... Lifespan:  Set to 60 minutes.
+2021-10-24 @ 12-25-32:  [ADU_SpawnItems] Loot Spawned [7] MilitaryGear_GhillieHood_Splinter @ <12228.348633, 140.050003, 12619.949219> ... Lifespan:  Set to 60 minutes.
+2021-10-24 @ 12-25-32:  [ADU_SpawnItems] Loot Spawned [8] Doc_LeeEnfieldJungle_54_1 @ <12223.959961, 140.050003, 12619.687500> ... Lifespan:  Set to 60 minutes.
+2021-10-24 @ 12-25-32:  [ADU_SpawnItems] Loot Spawned [9] Doc_Mag_Mak_84Rnd @ <12226.894531, 140.050003, 12618.826172> ... Lifespan:  Set to 60 minutes.
+2021-10-24 @ 12-25-32:  [ADU_SpawnItems] Loot Spawned [10] MilitaryGear_GhillieTop_FLT @ <12226.161133, 140.050003, 12622.176758> ... Lifespan:  Set to 60 minutes.
+2021-10-24 @ 12-25-32:  [ADU_SpawnItems] Loot Spawned [11] MilitaryGear_GhillieGunWrap_PartizanM @ <12226.817383, 140.050003, 12619.399414> ... Lifespan:  Set to 60 minutes.
+2021-10-24 @ 12-25-32:  [ADU_SpawnItems] Loot Spawned [12] Doc_LeeEnfieldMk4_54_5 @ <12224.527344, 140.050003, 12622.628906> ... Lifespan:  Set to 60 minutes.
+2021-10-24 @ 12-25-32:  [ADU_SpawnItems] Spawn failed for item [13] 'Doc_G3_50rnd', does not exist in DayZ!
+2021-10-24 @ 12-25-32:  [ADU_SpawnItems] Loot Spawned [14] Doc_Mag_SV98_10Rnd @ <12228.594727, 140.050003, 12621.217773> ... Lifespan:  Set to 60 minutes.
+2021-10-24 @ 12-25-32:  [ADU_SpawnItems] Loot Spawned [15] MilitaryGear_GhillieTop_Tiger @ <12225.298828, 140.050003, 12622.465820> ... Lifespan:  Set to 60 minutes.
+2021-10-24 @ 12-25-32:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-10-24 @ 12-25-32:  [EOnSimulate] Airdrop Container deactivated.
+2021-10-24 @ 13-03-07:  [~AirdropContainerBase] Log file closed.
+2021-10-24 @ 13-03-07:  [~AirdropContainerBase] Container Destroyed.

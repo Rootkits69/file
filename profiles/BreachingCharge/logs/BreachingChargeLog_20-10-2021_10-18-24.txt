@@ -1,0 +1,3 @@
+[20/10/2021-12:17:22]	[PLACED]	[20/10/2021-12:17:22]	A charge has been placed!	 | HDSN_BreachingChargeHeavy, Position: <3587.736328, 6.765367, 2197.154541>, Target: SimpleBaseGate_Logs_Metal | Player: BLK [76561198160226948]
+[20/10/2021-12:19:09]	[ARMED]		[20/10/2021-12:19:09]	A charge has been armed!	 | HDSN_BreachingChargeHeavy, Position: <3587.696289, 7.278429, 2196.404541>, Target: SimpleBaseGate_Logs_Metal | Player: BLK [76561198160226948]
+[20/10/2021-12:24:09]	[EXPLODED]	[20/10/2021-12:24:09]	A charge has exploded!		 | HDSN_BreachingChargeHeavy, Position: <3587.696289, 7.278429, 2196.404541>, Target: SimpleBaseGate_Logs_Metal, Damage done: 2 | Player: BLK [76561198160226948]

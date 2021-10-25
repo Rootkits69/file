@@ -1,0 +1,4 @@
+[10/10/2021-17:28:13]	[PLACED]	[10/10/2021-17:28:13]	A charge has been placed!	 | HDSN_BreachingChargeHeavy, Position: <4068.004150, 325.176971, 8930.677734>, Target: Fence_Gate | Player: SonJd [76561198214438271]
+[10/10/2021-17:28:19]	[ARMED]		[10/10/2021-17:28:19]	A charge has been armed!	 | HDSN_BreachingChargeHeavy, Position: <4068.648193, 325.819458, 8930.129883>, Target: Fence_Gate | Player: SonJd [76561198214438271]
+[10/10/2021-17:38:19]	[EXPLODED]	[10/10/2021-17:38:19]	A charge has exploded!		 | HDSN_BreachingChargeHeavy, Position: <4068.648193, 325.819458, 8930.129883>, Target: Fence_Gate, Damage done: 2 | Player: SonJd [76561198214438271]
+[10/10/2021-17:38:19]	[DESTROYED]	[10/10/2021-17:38:19]	A target was destroyed!	 | HDSN_BreachingChargeHeavy, Position: <4068.648193, 325.819458, 8930.129883>, Target: Fence_Gate | Player: SonJd [76561198214438271]

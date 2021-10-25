@@ -1,0 +1,26 @@
+2021-10-25 @ 03-32-11:  [InitializeContainer] Winds: Vector <2.610302, 0.000000, 6.710597>, Speed 7.2004mps, Strength 0.1
+2021-10-25 @ 03-32-11:  [InitializeContainer] Parachute created on @ <5798.592285, 456.373932, 7696.221191>
+2021-10-25 @ 03-34-24:  [AirdropContainerFall] Airdrop Container Touchdown @ <5798.592285, 322.956512, 7696.221191>
+2021-10-25 @ 03-34-24:  [ADU_RemoveParachute] Parachute removed.
+2021-10-25 @ 03-34-24:  [ADU_RepositionContainer] Container repositioned.
+2021-10-25 @ 03-34-24:  [ADU_SpawnItems] Drop Type 'Building Supplies', Container: 'AirdropContainer', Mode/Quantity/Iems: Random/15/203, Flare:  10%
+2021-10-25 @ 03-34-24:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-10-25 @ 03-34-24:  [ADU_SpawnItems] Loot Spawned [1] Msp_Locker_Kit @ <5801.337402, 319.958801, 7697.325195> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 03-34-24:  [ADU_SpawnItems] Loot Spawned [2] Screwdriver @ <5796.917480, 320.089813, 7694.104980> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 03-34-24:  [ADU_SpawnItems] Loot Spawned [3] Hatchet @ <5797.094238, 320.080963, 7697.008789> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 03-34-24:  [ADU_SpawnItems] Spawn failed for item [4] 'WoodenPlanks', does not exist in DayZ!
+2021-10-25 @ 03-34-24:  [ADU_SpawnItems] Loot Spawned [5] Pliers @ <5799.508789, 320.022491, 7693.924805> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 03-34-24:  [ADU_SpawnItems] Loot Spawned [6] HDSN_Sulfur @ <5799.992676, 320.005859, 7696.375977> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 03-34-24:  [ADU_SpawnItems] Loot Spawned [7] Msp_FishingRodsRack_Kit @ <5800.928223, 319.989166, 7695.031250> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 03-34-24:  [ADU_SpawnItems] Loot Spawned [8] MetalPlate @ <5796.279785, 320.100433, 7696.341797> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 03-34-24:  [ADU_SpawnItems] Loot Spawned [9] Msp_FourDoor_MilitaryLocker_Kit @ <5798.471680, 320.032440, 7698.631836> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 03-34-24:  [ADU_SpawnItems] Spawn failed for item [10] 'WoodenPlanks', does not exist in DayZ!
+2021-10-25 @ 03-34-24:  [ADU_SpawnItems] Loot Spawned [11] HandSaw @ <5796.679199, 320.081757, 7697.812988> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 03-34-24:  [ADU_SpawnItems] Loot Spawned [12] Pickaxe @ <5796.347168, 320.100739, 7696.160645> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 03-34-24:  [ADU_SpawnItems] Loot Spawned [13] Hatchet @ <5797.287109, 320.086395, 7695.915527> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 03-34-24:  [ADU_SpawnItems] Loot Spawned [14] Msp_SoloLocker_Kit @ <5796.607422, 320.096741, 7696.094727> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 03-34-24:  [ADU_SpawnItems] Loot Spawned [15] MediumTent @ <5800.504395, 319.985535, 7697.040039> ... Lifespan:  Set to 60 minutes.
+2021-10-25 @ 03-34-24:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-10-25 @ 03-34-24:  [EOnSimulate] Airdrop Container deactivated.
+2021-10-25 @ 03-58-45:  [~AirdropContainerBase] Log file closed.
+2021-10-25 @ 03-58-45:  [~AirdropContainerBase] Container Destroyed.

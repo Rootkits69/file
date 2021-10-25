@@ -1,0 +1,4 @@
+[09/10/2021-16:41:07]	[PLACED]	[09/10/2021-16:41:07]	A charge has been placed!	 | HDSN_BreachingChargeHeavy, Position: <11560.522461, 81.948349, 14747.128906>, Target: MoreDoorSmall | Player: ItsToXiiiic [76561198138907923]
+[09/10/2021-16:41:10]	[ARMED]		[09/10/2021-16:41:10]	A charge has been armed!	 | HDSN_BreachingChargeHeavy, Position: <11561.466797, 82.930344, 14746.216797>, Target: MoreDoorSmall | Player: ItsToXiiiic [76561198138907923]
+[09/10/2021-16:51:10]	[EXPLODED]	[09/10/2021-16:51:10]	A charge has exploded!		 | HDSN_BreachingChargeHeavy, Position: <11561.466797, 82.930344, 14746.216797>, Target: MoreDoorSmall, Damage done: 2 | Player: ItsToXiiiic [76561198138907923]
+[09/10/2021-16:51:10]	[DESTROYED]	[09/10/2021-16:51:10]	A target was destroyed!	 | HDSN_BreachingChargeHeavy, Position: <11561.466797, 82.930344, 14746.216797>, Target: MoreDoorSmall | Player: ItsToXiiiic [76561198138907923]

@@ -1,0 +1,26 @@
+2021-10-24 @ 02-11-21:  [AirdropPlane] Aircraft created on 2021-10-24 @ 02-11-21
+2021-10-24 @ 02-11-21:  [InitializeAircraft] Aircraft Initialized: Stary Sobor @ 5823/7764 (true)
+2021-10-24 @ 02-11-28:  [EOnSpawnZombies] Zombie Spawned [1] ZmbM_FarmerFat_Green @ <5815.943848, 317.266174, 7760.434082> ... Lifespan:  Set to 40 minutes.
+2021-10-24 @ 02-11-34:  [EOnSpawnZombies] Zombie Spawned [2] ZmbM_HermitSkinny_Beige @ <5837.458496, 315.828583, 7761.184082> ... Lifespan:  Set to 40 minutes.
+2021-10-24 @ 02-11-40:  [EOnSpawnZombies] Zombie Spawned [3] ZmbM_FarmerFat_Beige @ <5794.338379, 319.600311, 7734.989746> ... Lifespan:  Set to 40 minutes.
+2021-10-24 @ 02-11-46:  [EOnSpawnZombies] Spawn failed for zombie [4] 'ZmbM_SurvivorDean_Black', it does not exist in DayZ!
+2021-10-24 @ 02-11-52:  [EOnSpawnZombies] Zombie Spawned [5] ZmbF_SurvivorNormal_Blue @ <5845.428223, 313.658386, 7796.732422> ... Lifespan:  Set to 40 minutes.
+2021-10-24 @ 02-11-58:  [EOnSpawnZombies] Zombie Spawned [6] ZmbM_MotobikerFat_Black @ <5828.127930, 317.585388, 7740.242188> ... Lifespan:  Set to 40 minutes.
+2021-10-24 @ 02-12-04:  [EOnSpawnZombies] Zombie Spawned [7] ZmbM_MotobikerFat_Blue @ <5837.792480, 314.119690, 7798.805664> ... Lifespan:  Set to 40 minutes.
+2021-10-24 @ 02-12-10:  [EOnSpawnZombies] Zombie Spawned [8] ZmbF_VillagerOld_Blue @ <5863.615723, 313.231964, 7778.086426> ... Lifespan:  Set to 40 minutes.
+2021-10-24 @ 02-12-16:  [EOnSpawnZombies] Zombie Spawned [9] ZmbM_HermitSkinny_Black @ <5826.685547, 315.076019, 7813.599609> ... Lifespan:  Set to 40 minutes.
+2021-10-24 @ 02-12-22:  [EOnSpawnZombies] Zombie Spawned [10] ZmbF_SurvivorNormal_Blue @ <5827.954590, 315.756042, 7772.778320> ... Lifespan:  Set to 40 minutes.
+2021-10-24 @ 02-12-28:  [EOnSpawnZombies] Zombie Spawned [11] ZmbM_HermitSkinny_Green @ <5850.474121, 316.380035, 7740.717773> ... Lifespan:  Set to 40 minutes.
+2021-10-24 @ 02-12-34:  [EOnSpawnZombies] Zombie Spawned [12] ZmbM_MotobikerFat_Beige @ <5819.240234, 316.624756, 7767.887207> ... Lifespan:  Set to 40 minutes.
+2021-10-24 @ 02-12-41:  [EOnSpawnZombies] Zombie Spawned [13] ZmbF_HikerSkinny_Red @ <5839.878906, 314.704926, 7777.146973> ... Lifespan:  Set to 40 minutes.
+2021-10-24 @ 02-12-47:  [EOnSpawnZombies] Zombie Spawned [14] ZmbM_MotobikerFat_Black @ <5831.251465, 318.546295, 7718.351563> ... Lifespan:  Set to 40 minutes.
+2021-10-24 @ 02-12-53:  [EOnSpawnZombies] Zombie Spawned [15] ZmbM_MotobikerFat_Black @ <5825.056641, 316.880219, 7757.094238> ... Lifespan:  Set to 40 minutes.
+2021-10-24 @ 02-12-59:  [EOnSpawnZombies] Zombie Spawned [16] ZmbM_FarmerFat_Green @ <5799.057129, 317.613983, 7786.941895> ... Lifespan:  Set to 40 minutes.
+2021-10-24 @ 02-13-05:  [EOnSpawnZombies] Zombie Spawned [17] ZmbM_MotobikerFat_Blue @ <5783.981445, 318.923767, 7773.977539> ... Lifespan:  Set to 40 minutes.
+2021-10-24 @ 02-13-11:  [EOnSpawnZombies] Zombie Spawned [18] ZmbM_HikerSkinny_Yellow @ <5828.501465, 315.054108, 7787.965820> ... Lifespan:  Set to 40 minutes.
+2021-10-24 @ 02-13-11:  [EOnBeforeDrop] The Aircraft is 1 Km from Stary Sobor, from the South/West (227°). @ <5094.187988, 434.535736, 7079.838379>
+2021-10-24 @ 02-13-17:  [EOnSpawnZombies] Zombie Spawned [19] ZmbM_HunterOld_Winter @ <5843.698242, 316.332306, 7747.058105> ... Lifespan:  Set to 40 minutes.
+2021-10-24 @ 02-13-24:  [EOnDrop] Drop spawned with 20 infected at <5760.981934, 456.084961, 7705.435059>.
+2021-10-24 @ 02-13-24:  [EOnDrop] Supplies have been dropped near Stary Sobor.
+2021-10-24 @ 02-16-30:  [EOnBeforeDelete] Aircraft despawned @ <14985.915039, 271.132782, 16361.223633>
+2021-10-24 @ 02-16-30:  [~AirdropPlane] Aircraft destroyed.

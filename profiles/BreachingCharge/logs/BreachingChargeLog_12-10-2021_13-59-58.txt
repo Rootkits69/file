@@ -1,0 +1,8 @@
+[12/10/2021-14:11:27]	[PLACED]	[12/10/2021-14:11:27]	A charge has been placed!	 | HDSN_BreachingCharge, Position: <7423.249512, 408.238342, 9104.333984>, Target: Fence_Gate | Player: Clark524 [76561199131805143]
+[12/10/2021-14:11:32]	[ARMED]		[12/10/2021-14:11:32]	A charge has been armed!	 | HDSN_BreachingCharge, Position: <7424.905762, 408.423920, 9105.384766>, Target: Fence_Gate | Player: Clark524 [76561199131805143]
+[12/10/2021-14:21:32]	[EXPLODED]	[12/10/2021-14:21:32]	A charge has exploded!		 | HDSN_BreachingCharge, Position: <7424.905762, 408.423920, 9105.384766>, Target: Fence_Gate, Damage done: 1 | Player: Clark524 [76561199131805143]
+[12/10/2021-14:21:32]	[DESTROYED]	[12/10/2021-14:21:32]	A target was destroyed!	 | HDSN_BreachingCharge, Position: <7424.905762, 408.423920, 9105.384766>, Target: Fence_Gate | Player: Clark524 [76561199131805143]
+[12/10/2021-14:23:44]	[PLACED]	[12/10/2021-14:23:44]	A charge has been placed!	 | HDSN_BreachingChargeHeavy, Position: <7426.931152, 408.343811, 9104.429688>, Target: Fence_Gate | Player: Clark524 [76561199131805143]
+[12/10/2021-14:23:49]	[ARMED]		[12/10/2021-14:23:49]	A charge has been armed!	 | HDSN_BreachingChargeHeavy, Position: <7427.317871, 408.336487, 9106.042969>, Target: Fence_Gate | Player: Clark524 [76561199131805143]
+[12/10/2021-14:28:49]	[EXPLODED]	[12/10/2021-14:28:49]	A charge has exploded!		 | HDSN_BreachingChargeHeavy, Position: <7427.317871, 408.336487, 9106.042969>, Target: Fence_Gate, Damage done: 2 | Player: Clark524 [76561199131805143]
+[12/10/2021-14:28:49]	[DESTROYED]	[12/10/2021-14:28:49]	A target was destroyed!	 | HDSN_BreachingChargeHeavy, Position: <7427.317871, 408.336487, 9106.042969>, Target: Fence_Gate | Player: Clark524 [76561199131805143]
